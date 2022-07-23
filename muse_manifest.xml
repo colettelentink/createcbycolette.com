@@ -1,33 +1,33 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="createdbycolette.com" resolutions="1x" timestamp="1658600406418">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="createdbycolette.com" resolutions="1x" timestamp="1658606535903">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-stramien.css" crc="4021941247" ref="dancing-with-light:drawings-pavilion:own-world:tokio-house:spatial-design:2d---technical:index:contact---about-me:triangle-stairs:diverse-renders:pastabar:recycled-plastic:creative-mind:shopping-window:interactive-pavilion:hotel-madagascar:refolding-space:renders-internship:interior-design:the-wanderer:drawings-hotelroom:playful-space:detail-drawings:3d-modeling:interior-design-fair:lamp-design"/>
-    <file name="dancing-with-light.css" crc="330513467" ref="dancing-with-light"/>
-    <file name="drawings-pavilion.css" crc="137377456" ref="drawings-pavilion"/>
+    <file name="master_a-stramien.css" crc="4021941247" ref="own-world:recycled-plastic:shopping-window:index:interior-design:creative-mind:interior-design-fair:contact---about-me:renders-internship:playful-space:drawings-pavilion:3d-modeling:2d---technical:drawings-hotelroom:detail-drawings:triangle-stairs:spatial-design:the-wanderer:lamp-design:refolding-space:hotel-madagascar:diverse-renders:pastabar:dancing-with-light:tokio-house:interactive-pavilion"/>
     <file name="own-world.css" crc="283970257" ref="own-world"/>
-    <file name="tokio-house.css" crc="120358139" ref="tokio-house"/>
-    <file name="spatial-design.css" crc="4176886769" ref="spatial-design"/>
-    <file name="2d---technical.css" crc="4070547313" ref="2d---technical"/>
+    <file name="recycled-plastic.css" crc="255975004" ref="recycled-plastic"/>
+    <file name="shopping-window.css" crc="3962184760" ref="shopping-window"/>
     <file name="index.css" crc="250352669" ref="index"/>
+    <file name="interior-design.css" crc="203112798" ref="interior-design"/>
+    <file name="creative-mind.css" crc="4066461797" ref="creative-mind"/>
+    <file name="interior-design-fair.css" crc="81967426" ref="interior-design-fair"/>
     <file name="contact---about-me.css" crc="3790091546" ref="contact---about-me"/>
+    <file name="renders-internship.css" crc="484001225" ref="renders-internship"/>
+    <file name="playful-space.css" crc="343163074" ref="playful-space"/>
+    <file name="drawings-pavilion.css" crc="137377456" ref="drawings-pavilion"/>
+    <file name="3d-modeling.css" crc="271346529" ref="3d-modeling"/>
+    <file name="2d---technical.css" crc="4070547313" ref="2d---technical"/>
+    <file name="drawings-hotelroom.css" crc="106739229" ref="drawings-hotelroom"/>
+    <file name="detail-drawings.css" crc="4135841144" ref="detail-drawings"/>
     <file name="triangle-stairs.css" crc="4263161243" ref="triangle-stairs"/>
+    <file name="spatial-design.css" crc="4176886769" ref="spatial-design"/>
+    <file name="the-wanderer.css" crc="4035514848" ref="the-wanderer"/>
+    <file name="lamp-design.css" crc="469821531" ref="lamp-design"/>
+    <file name="refolding-space.css" crc="484097484" ref="refolding-space"/>
+    <file name="hotel-madagascar.css" crc="41192880" ref="hotel-madagascar"/>
     <file name="diverse-renders.css" crc="531116587" ref="diverse-renders"/>
     <file name="pastabar.css" crc="3759876262" ref="pastabar"/>
-    <file name="recycled-plastic.css" crc="255975004" ref="recycled-plastic"/>
-    <file name="creative-mind.css" crc="4066461797" ref="creative-mind"/>
-    <file name="shopping-window.css" crc="3962184760" ref="shopping-window"/>
+    <file name="dancing-with-light.css" crc="330513467" ref="dancing-with-light"/>
+    <file name="tokio-house.css" crc="120358139" ref="tokio-house"/>
     <file name="interactive-pavilion.css" crc="266869543" ref="interactive-pavilion"/>
-    <file name="hotel-madagascar.css" crc="41192880" ref="hotel-madagascar"/>
-    <file name="refolding-space.css" crc="484097484" ref="refolding-space"/>
-    <file name="renders-internship.css" crc="484001225" ref="renders-internship"/>
-    <file name="interior-design.css" crc="203112798" ref="interior-design"/>
-    <file name="the-wanderer.css" crc="4035514848" ref="the-wanderer"/>
-    <file name="drawings-hotelroom.css" crc="106739229" ref="drawings-hotelroom"/>
-    <file name="playful-space.css" crc="343163074" ref="playful-space"/>
-    <file name="detail-drawings.css" crc="4135841144" ref="detail-drawings"/>
-    <file name="3d-modeling.css" crc="271346529" ref="3d-modeling"/>
-    <file name="interior-design-fair.css" crc="81967426" ref="interior-design-fair"/>
-    <file name="lamp-design.css" crc="469821531" ref="lamp-design"/>
   </folder>
   <folder name="assets">
     <file name="int-dansstudio-02.mp4" crc="4073639498" seo="true" mt="1654004847000"/>
@@ -42,203 +42,131 @@
   </folder>
   <folder name="images">
     <file name="logo colette lentink.png" crc="3913447475" seo="true" ref="phone>index:phone>contact---about-me:index:interior-design:2d---technical:spatial-design:contact---about-me:hotel-madagascar:triangle-stairs:diverse-renders:pastabar:renders-internship:interior-design-fair:drawings-hotelroom:recycled-plastic:detail-drawings:drawings-pavilion:the-wanderer:creative-mind:refolding-space:interactive-pavilion:dancing-with-light:lamp-design:3d-modeling:playful-space:shopping-window:tokio-house:own-world">
-      <caption webpage="own-world" alt=""/>
-      <caption webpage="interior-design" alt=""/>
-      <caption webpage="pastabar" alt=""/>
-      <caption webpage="recycled-plastic" alt=""/>
-      <caption webpage="contact---about-me" alt=""/>
-      <caption webpage="contact---about-me" alt=""/>
-      <caption webpage="shopping-window" alt=""/>
-      <caption webpage="renders-internship" alt=""/>
-      <caption webpage="refolding-space" alt=""/>
-      <caption webpage="2d---technical" alt=""/>
-      <caption webpage="triangle-stairs" alt=""/>
-      <caption webpage="drawings-pavilion" alt=""/>
-      <caption webpage="diverse-renders" alt=""/>
-      <caption webpage="interactive-pavilion" alt=""/>
-      <caption webpage="dancing-with-light" alt=""/>
-      <caption webpage="playful-space" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="hotel-madagascar" alt=""/>
-      <caption webpage="the-wanderer" alt=""/>
-      <caption webpage="detail-drawings" alt=""/>
-      <caption webpage="spatial-design" alt=""/>
-      <caption webpage="tokio-house" alt=""/>
-      <caption webpage="drawings-hotelroom" alt=""/>
       <caption webpage="lamp-design" alt=""/>
-      <caption webpage="interior-design-fair" alt=""/>
+      <caption webpage="pastabar" alt=""/>
+      <caption webpage="contact---about-me" alt=""/>
+      <caption webpage="contact---about-me" alt=""/>
+      <caption webpage="drawings-hotelroom" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="refolding-space" alt=""/>
+      <caption webpage="diverse-renders" alt=""/>
+      <caption webpage="own-world" alt=""/>
+      <caption webpage="renders-internship" alt=""/>
+      <caption webpage="dancing-with-light" alt=""/>
+      <caption webpage="hotel-madagascar" alt=""/>
+      <caption webpage="drawings-pavilion" alt=""/>
+      <caption webpage="shopping-window" alt=""/>
+      <caption webpage="2d---technical" alt=""/>
+      <caption webpage="interactive-pavilion" alt=""/>
+      <caption webpage="the-wanderer" alt=""/>
+      <caption webpage="spatial-design" alt=""/>
+      <caption webpage="playful-space" alt=""/>
       <caption webpage="creative-mind" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="triangle-stairs" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="recycled-plastic" alt=""/>
+      <caption webpage="tokio-house" alt=""/>
+      <caption webpage="detail-drawings" alt=""/>
+      <caption webpage="interior-design-fair" alt=""/>
     </file>
     <file name="u7026-4.png" crc="3910580596" ref="phone>index"/>
     <file name="u7057-6.png" crc="3968311850" ref="phone>index"/>
     <file name="int patio driehoekjes 02-crop-u7027.jpg" crc="126630299" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u7063-4.png" crc="3777042593" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>contact---about-me"/>
-    <file name="u7062-4.png" crc="3787515640" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>contact---about-me"/>
-    <file name="174857.png" crc="4181283408" seo="true" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>contact---about-me:index:interior-design:2d---technical:spatial-design:contact---about-me:hotel-madagascar:triangle-stairs:diverse-renders:pastabar:renders-internship:interior-design-fair:drawings-hotelroom:recycled-plastic:detail-drawings:drawings-pavilion:the-wanderer:creative-mind:refolding-space:interactive-pavilion:dancing-with-light:lamp-design:3d-modeling:playful-space:shopping-window:tokio-house:own-world">
-      <caption webpage="interior-design" alt=""/>
-      <caption webpage="interior-design" alt=""/>
+    <file name="u7122-4-a.png" crc="3777042593" ref="phone>index"/>
+    <file name="u7121-4.png" crc="3787515640" ref="phone>index"/>
+    <file name="174857.png" crc="4181283408" seo="true" ref="phone>index:phone>contact---about-me:index:interior-design:2d---technical:spatial-design:contact---about-me:hotel-madagascar:triangle-stairs:diverse-renders:pastabar:renders-internship:interior-design-fair:drawings-hotelroom:recycled-plastic:detail-drawings:drawings-pavilion:the-wanderer:creative-mind:refolding-space:interactive-pavilion:dancing-with-light:lamp-design:3d-modeling:playful-space:shopping-window:tokio-house:own-world">
+      <caption webpage="lamp-design" alt=""/>
       <caption webpage="pastabar" alt=""/>
-      <caption webpage="pastabar" alt=""/>
-      <caption webpage="recycled-plastic" alt=""/>
-      <caption webpage="recycled-plastic" alt=""/>
-      <caption webpage="refolding-space" alt=""/>
-      <caption webpage="refolding-space" alt=""/>
-      <caption webpage="shopping-window" alt=""/>
-      <caption webpage="shopping-window" alt=""/>
-      <caption webpage="renders-internship" alt=""/>
-      <caption webpage="renders-internship" alt=""/>
       <caption webpage="contact---about-me" alt=""/>
       <caption webpage="contact---about-me" alt=""/>
-      <caption webpage="2d---technical" alt=""/>
-      <caption webpage="2d---technical" alt=""/>
-      <caption webpage="triangle-stairs" alt=""/>
-      <caption webpage="triangle-stairs" alt=""/>
-      <caption webpage="playful-space" alt=""/>
-      <caption webpage="playful-space" alt=""/>
+      <caption webpage="drawings-hotelroom" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="refolding-space" alt=""/>
       <caption webpage="diverse-renders" alt=""/>
-      <caption webpage="diverse-renders" alt=""/>
-      <caption webpage="interactive-pavilion" alt=""/>
-      <caption webpage="interactive-pavilion" alt=""/>
+      <caption webpage="own-world" alt=""/>
+      <caption webpage="renders-internship" alt=""/>
       <caption webpage="dancing-with-light" alt=""/>
-      <caption webpage="dancing-with-light" alt=""/>
+      <caption webpage="hotel-madagascar" alt=""/>
       <caption webpage="drawings-pavilion" alt=""/>
-      <caption webpage="drawings-pavilion" alt=""/>
+      <caption webpage="shopping-window" alt=""/>
+      <caption webpage="2d---technical" alt=""/>
+      <caption webpage="interactive-pavilion" alt=""/>
+      <caption webpage="the-wanderer" alt=""/>
+      <caption webpage="spatial-design" alt=""/>
+      <caption webpage="playful-space" alt=""/>
+      <caption webpage="creative-mind" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="interior-design-fair" alt=""/>
-      <caption webpage="interior-design-fair" alt=""/>
-      <caption webpage="hotel-madagascar" alt=""/>
-      <caption webpage="hotel-madagascar" alt=""/>
-      <caption webpage="the-wanderer" alt=""/>
-      <caption webpage="the-wanderer" alt=""/>
-      <caption webpage="detail-drawings" alt=""/>
-      <caption webpage="detail-drawings" alt=""/>
-      <caption webpage="spatial-design" alt=""/>
-      <caption webpage="spatial-design" alt=""/>
+      <caption webpage="triangle-stairs" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="recycled-plastic" alt=""/>
       <caption webpage="tokio-house" alt=""/>
-      <caption webpage="tokio-house" alt=""/>
-      <caption webpage="drawings-hotelroom" alt=""/>
-      <caption webpage="drawings-hotelroom" alt=""/>
-      <caption webpage="lamp-design" alt=""/>
-      <caption webpage="lamp-design" alt=""/>
-      <caption webpage="own-world" alt=""/>
-      <caption webpage="own-world" alt=""/>
-      <caption webpage="3d-modeling" alt=""/>
-      <caption webpage="3d-modeling" alt=""/>
-      <caption webpage="creative-mind" alt=""/>
-      <caption webpage="creative-mind" alt=""/>
+      <caption webpage="detail-drawings" alt=""/>
+      <caption webpage="interior-design-fair" alt=""/>
     </file>
-    <file name="instagram-logo-png-photo.png" crc="437795350" seo="true" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>contact---about-me:index:interior-design:2d---technical:spatial-design:contact---about-me:hotel-madagascar:triangle-stairs:diverse-renders:pastabar:renders-internship:interior-design-fair:drawings-hotelroom:recycled-plastic:detail-drawings:drawings-pavilion:the-wanderer:creative-mind:refolding-space:interactive-pavilion:dancing-with-light:lamp-design:3d-modeling:playful-space:shopping-window:tokio-house:own-world">
-      <caption webpage="interior-design" alt=""/>
-      <caption webpage="interior-design" alt=""/>
+    <file name="instagram-logo-png-photo.png" crc="437795350" seo="true" ref="phone>index:phone>contact---about-me:index:interior-design:2d---technical:spatial-design:contact---about-me:hotel-madagascar:triangle-stairs:diverse-renders:pastabar:renders-internship:interior-design-fair:drawings-hotelroom:recycled-plastic:detail-drawings:drawings-pavilion:the-wanderer:creative-mind:refolding-space:interactive-pavilion:dancing-with-light:lamp-design:3d-modeling:playful-space:shopping-window:tokio-house:own-world">
+      <caption webpage="lamp-design" alt=""/>
       <caption webpage="pastabar" alt=""/>
-      <caption webpage="pastabar" alt=""/>
-      <caption webpage="recycled-plastic" alt=""/>
-      <caption webpage="recycled-plastic" alt=""/>
-      <caption webpage="refolding-space" alt=""/>
-      <caption webpage="refolding-space" alt=""/>
-      <caption webpage="shopping-window" alt=""/>
-      <caption webpage="shopping-window" alt=""/>
-      <caption webpage="renders-internship" alt=""/>
-      <caption webpage="renders-internship" alt=""/>
       <caption webpage="contact---about-me" alt=""/>
       <caption webpage="contact---about-me" alt=""/>
-      <caption webpage="2d---technical" alt=""/>
-      <caption webpage="2d---technical" alt=""/>
-      <caption webpage="triangle-stairs" alt=""/>
-      <caption webpage="triangle-stairs" alt=""/>
-      <caption webpage="playful-space" alt=""/>
-      <caption webpage="playful-space" alt=""/>
+      <caption webpage="drawings-hotelroom" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="refolding-space" alt=""/>
       <caption webpage="diverse-renders" alt=""/>
-      <caption webpage="diverse-renders" alt=""/>
-      <caption webpage="interactive-pavilion" alt=""/>
-      <caption webpage="interactive-pavilion" alt=""/>
+      <caption webpage="own-world" alt=""/>
+      <caption webpage="renders-internship" alt=""/>
       <caption webpage="dancing-with-light" alt=""/>
-      <caption webpage="dancing-with-light" alt=""/>
+      <caption webpage="hotel-madagascar" alt=""/>
       <caption webpage="drawings-pavilion" alt=""/>
-      <caption webpage="drawings-pavilion" alt=""/>
+      <caption webpage="shopping-window" alt=""/>
+      <caption webpage="2d---technical" alt=""/>
+      <caption webpage="interactive-pavilion" alt=""/>
+      <caption webpage="the-wanderer" alt=""/>
+      <caption webpage="spatial-design" alt=""/>
+      <caption webpage="playful-space" alt=""/>
+      <caption webpage="creative-mind" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="interior-design-fair" alt=""/>
-      <caption webpage="interior-design-fair" alt=""/>
-      <caption webpage="hotel-madagascar" alt=""/>
-      <caption webpage="hotel-madagascar" alt=""/>
-      <caption webpage="the-wanderer" alt=""/>
-      <caption webpage="the-wanderer" alt=""/>
-      <caption webpage="detail-drawings" alt=""/>
-      <caption webpage="detail-drawings" alt=""/>
-      <caption webpage="spatial-design" alt=""/>
-      <caption webpage="spatial-design" alt=""/>
+      <caption webpage="triangle-stairs" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="recycled-plastic" alt=""/>
       <caption webpage="tokio-house" alt=""/>
-      <caption webpage="tokio-house" alt=""/>
-      <caption webpage="drawings-hotelroom" alt=""/>
-      <caption webpage="drawings-hotelroom" alt=""/>
-      <caption webpage="lamp-design" alt=""/>
-      <caption webpage="lamp-design" alt=""/>
-      <caption webpage="own-world" alt=""/>
-      <caption webpage="own-world" alt=""/>
-      <caption webpage="3d-modeling" alt=""/>
-      <caption webpage="3d-modeling" alt=""/>
-      <caption webpage="creative-mind" alt=""/>
-      <caption webpage="creative-mind" alt=""/>
+      <caption webpage="detail-drawings" alt=""/>
+      <caption webpage="interior-design-fair" alt=""/>
     </file>
-    <file name="free-youtube-logo-icon-2431-thumb.png" crc="4120412302" seo="true" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>contact---about-me:index:interior-design:2d---technical:spatial-design:contact---about-me:hotel-madagascar:triangle-stairs:diverse-renders:pastabar:renders-internship:interior-design-fair:drawings-hotelroom:recycled-plastic:detail-drawings:drawings-pavilion:the-wanderer:creative-mind:refolding-space:interactive-pavilion:dancing-with-light:lamp-design:3d-modeling:playful-space:shopping-window:tokio-house:own-world">
-      <caption webpage="interior-design" alt=""/>
-      <caption webpage="interior-design" alt=""/>
+    <file name="free-youtube-logo-icon-2431-thumb.png" crc="4120412302" seo="true" ref="phone>index:phone>contact---about-me:index:interior-design:2d---technical:spatial-design:contact---about-me:hotel-madagascar:triangle-stairs:diverse-renders:pastabar:renders-internship:interior-design-fair:drawings-hotelroom:recycled-plastic:detail-drawings:drawings-pavilion:the-wanderer:creative-mind:refolding-space:interactive-pavilion:dancing-with-light:lamp-design:3d-modeling:playful-space:shopping-window:tokio-house:own-world">
+      <caption webpage="lamp-design" alt=""/>
       <caption webpage="pastabar" alt=""/>
-      <caption webpage="pastabar" alt=""/>
-      <caption webpage="recycled-plastic" alt=""/>
-      <caption webpage="recycled-plastic" alt=""/>
-      <caption webpage="refolding-space" alt=""/>
-      <caption webpage="refolding-space" alt=""/>
-      <caption webpage="shopping-window" alt=""/>
-      <caption webpage="shopping-window" alt=""/>
-      <caption webpage="renders-internship" alt=""/>
-      <caption webpage="renders-internship" alt=""/>
       <caption webpage="contact---about-me" alt=""/>
       <caption webpage="contact---about-me" alt=""/>
-      <caption webpage="2d---technical" alt=""/>
-      <caption webpage="2d---technical" alt=""/>
-      <caption webpage="triangle-stairs" alt=""/>
-      <caption webpage="triangle-stairs" alt=""/>
-      <caption webpage="playful-space" alt=""/>
-      <caption webpage="playful-space" alt=""/>
+      <caption webpage="drawings-hotelroom" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="refolding-space" alt=""/>
       <caption webpage="diverse-renders" alt=""/>
-      <caption webpage="diverse-renders" alt=""/>
-      <caption webpage="interactive-pavilion" alt=""/>
-      <caption webpage="interactive-pavilion" alt=""/>
+      <caption webpage="own-world" alt=""/>
+      <caption webpage="renders-internship" alt=""/>
       <caption webpage="dancing-with-light" alt=""/>
-      <caption webpage="dancing-with-light" alt=""/>
+      <caption webpage="hotel-madagascar" alt=""/>
       <caption webpage="drawings-pavilion" alt=""/>
-      <caption webpage="drawings-pavilion" alt=""/>
+      <caption webpage="shopping-window" alt=""/>
+      <caption webpage="2d---technical" alt=""/>
+      <caption webpage="interactive-pavilion" alt=""/>
+      <caption webpage="the-wanderer" alt=""/>
+      <caption webpage="spatial-design" alt=""/>
+      <caption webpage="playful-space" alt=""/>
+      <caption webpage="creative-mind" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="interior-design-fair" alt=""/>
-      <caption webpage="interior-design-fair" alt=""/>
-      <caption webpage="hotel-madagascar" alt=""/>
-      <caption webpage="hotel-madagascar" alt=""/>
-      <caption webpage="the-wanderer" alt=""/>
-      <caption webpage="the-wanderer" alt=""/>
-      <caption webpage="detail-drawings" alt=""/>
-      <caption webpage="detail-drawings" alt=""/>
-      <caption webpage="spatial-design" alt=""/>
-      <caption webpage="spatial-design" alt=""/>
+      <caption webpage="triangle-stairs" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="recycled-plastic" alt=""/>
       <caption webpage="tokio-house" alt=""/>
-      <caption webpage="tokio-house" alt=""/>
-      <caption webpage="drawings-hotelroom" alt=""/>
-      <caption webpage="drawings-hotelroom" alt=""/>
-      <caption webpage="lamp-design" alt=""/>
-      <caption webpage="lamp-design" alt=""/>
-      <caption webpage="own-world" alt=""/>
-      <caption webpage="own-world" alt=""/>
-      <caption webpage="3d-modeling" alt=""/>
-      <caption webpage="3d-modeling" alt=""/>
-      <caption webpage="creative-mind" alt=""/>
-      <caption webpage="creative-mind" alt=""/>
+      <caption webpage="detail-drawings" alt=""/>
+      <caption webpage="interior-design-fair" alt=""/>
     </file>
     <file name="u7095-4.png" crc="4255634111" ref="phone>contact---about-me"/>
     <file name="dsc_0023 kleiner350x234.jpg" crc="3957285934" seo="true" ref="phone>contact---about-me">
@@ -247,6 +175,8 @@
     <file name="u7102-12.png" crc="4004371783" ref="phone>contact---about-me"/>
     <file name="u7100-4.png" crc="3809239639" ref="phone>contact---about-me"/>
     <file name="u7101-4.png" crc="35090688" ref="phone>contact---about-me"/>
+    <file name="u7155-4.png" crc="3777042593" ref="phone>contact---about-me"/>
+    <file name="u7154-4-a.png" crc="3787515640" ref="phone>contact---about-me"/>
     <file name="u256-4.png" crc="194753197" ref="index"/>
     <file name="u177-4.png" crc="4167215078" ref="index"/>
     <file name="u280-4.png" crc="53512536" ref="index"/>
@@ -288,31 +218,31 @@
     <file name="u448-4.png" crc="72460520" ref="interior-design"/>
     <file name="u326-4.png" crc="83444325" ref="interior-design"/>
     <file name="back.svg" crc="158678665" seo="true" ref="interior-design:2d---technical:spatial-design:contact---about-me:hotel-madagascar:triangle-stairs:diverse-renders:pastabar:renders-internship:interior-design-fair:drawings-hotelroom:recycled-plastic:detail-drawings:drawings-pavilion:the-wanderer:creative-mind:refolding-space:interactive-pavilion:dancing-with-light:lamp-design:3d-modeling:playful-space:shopping-window:tokio-house:own-world">
-      <caption webpage="diverse-renders" alt=""/>
-      <caption webpage="interactive-pavilion" alt=""/>
-      <caption webpage="interior-design" alt=""/>
-      <caption webpage="interior-design-fair" alt=""/>
-      <caption webpage="shopping-window" alt=""/>
-      <caption webpage="spatial-design" alt=""/>
-      <caption webpage="own-world" alt=""/>
-      <caption webpage="drawings-pavilion" alt=""/>
-      <caption webpage="dancing-with-light" alt=""/>
-      <caption webpage="recycled-plastic" alt=""/>
-      <caption webpage="the-wanderer" alt=""/>
-      <caption webpage="detail-drawings" alt=""/>
-      <caption webpage="contact---about-me" alt=""/>
-      <caption webpage="pastabar" alt=""/>
-      <caption webpage="tokio-house" alt=""/>
-      <caption webpage="drawings-hotelroom" alt=""/>
-      <caption webpage="renders-internship" alt=""/>
-      <caption webpage="refolding-space" alt=""/>
-      <caption webpage="2d---technical" alt=""/>
-      <caption webpage="playful-space" alt=""/>
-      <caption webpage="3d-modeling" alt=""/>
-      <caption webpage="creative-mind" alt=""/>
-      <caption webpage="triangle-stairs" alt=""/>
-      <caption webpage="hotel-madagascar" alt=""/>
       <caption webpage="lamp-design" alt=""/>
+      <caption webpage="2d---technical" alt=""/>
+      <caption webpage="pastabar" alt=""/>
+      <caption webpage="interactive-pavilion" alt=""/>
+      <caption webpage="detail-drawings" alt=""/>
+      <caption webpage="drawings-hotelroom" alt=""/>
+      <caption webpage="shopping-window" alt=""/>
+      <caption webpage="the-wanderer" alt=""/>
+      <caption webpage="refolding-space" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="drawings-pavilion" alt=""/>
+      <caption webpage="creative-mind" alt=""/>
+      <caption webpage="diverse-renders" alt=""/>
+      <caption webpage="triangle-stairs" alt=""/>
+      <caption webpage="spatial-design" alt=""/>
+      <caption webpage="playful-space" alt=""/>
+      <caption webpage="tokio-house" alt=""/>
+      <caption webpage="dancing-with-light" alt=""/>
+      <caption webpage="renders-internship" alt=""/>
+      <caption webpage="recycled-plastic" alt=""/>
+      <caption webpage="hotel-madagascar" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="contact---about-me" alt=""/>
+      <caption webpage="own-world" alt=""/>
+      <caption webpage="interior-design-fair" alt=""/>
     </file>
     <file name="back_poster_.png" crc="68879895" ref="interior-design"/>
     <file name="u2728-4.png" crc="3900624963" ref="2d---technical"/>
@@ -701,85 +631,84 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-stramien.css" crc="318775616" ref="phone>interactive-pavilion:phone>spatial-design:phone>renders-internship:phone>detail-drawings:phone>refolding-space:phone>drawings-pavilion:phone>triangle-stairs:phone>pastabar:phone>interior-design-fair:phone>recycled-plastic:phone>creative-mind:phone>hotel-madagascar:phone>contact---about-me:phone>interior-design:phone>diverse-renders:phone>index:phone>shopping-window:phone>the-wanderer:phone>tokio-house:phone>playful-space:phone>3d-modeling:phone>own-world:phone>lamp-design:phone>drawings-hotelroom:phone>dancing-with-light:phone>2d---technical"/>
-      <file name="interactive-pavilion.css" crc="38538118" ref="phone>interactive-pavilion"/>
-      <file name="spatial-design.css" crc="38538118" ref="phone>spatial-design"/>
-      <file name="renders-internship.css" crc="38538118" ref="phone>renders-internship"/>
-      <file name="detail-drawings.css" crc="38538118" ref="phone>detail-drawings"/>
-      <file name="refolding-space.css" crc="38538118" ref="phone>refolding-space"/>
-      <file name="drawings-pavilion.css" crc="38538118" ref="phone>drawings-pavilion"/>
-      <file name="triangle-stairs.css" crc="38538118" ref="phone>triangle-stairs"/>
-      <file name="pastabar.css" crc="38538118" ref="phone>pastabar"/>
-      <file name="interior-design-fair.css" crc="38538118" ref="phone>interior-design-fair"/>
-      <file name="recycled-plastic.css" crc="38538118" ref="phone>recycled-plastic"/>
-      <file name="creative-mind.css" crc="38538118" ref="phone>creative-mind"/>
-      <file name="hotel-madagascar.css" crc="38538118" ref="phone>hotel-madagascar"/>
-      <file name="contact---about-me.css" crc="292081610" ref="phone>contact---about-me"/>
-      <file name="interior-design.css" crc="38538118" ref="phone>interior-design"/>
-      <file name="diverse-renders.css" crc="38538118" ref="phone>diverse-renders"/>
-      <file name="index.css" crc="4273249990" ref="phone>index"/>
-      <file name="shopping-window.css" crc="38538118" ref="phone>shopping-window"/>
-      <file name="the-wanderer.css" crc="38538118" ref="phone>the-wanderer"/>
-      <file name="tokio-house.css" crc="38538118" ref="phone>tokio-house"/>
-      <file name="playful-space.css" crc="38538118" ref="phone>playful-space"/>
-      <file name="3d-modeling.css" crc="38538118" ref="phone>3d-modeling"/>
-      <file name="own-world.css" crc="38538118" ref="phone>own-world"/>
-      <file name="lamp-design.css" crc="38538118" ref="phone>lamp-design"/>
-      <file name="drawings-hotelroom.css" crc="38538118" ref="phone>drawings-hotelroom"/>
-      <file name="dancing-with-light.css" crc="38538118" ref="phone>dancing-with-light"/>
-      <file name="2d---technical.css" crc="38538118" ref="phone>2d---technical"/>
+      <file name="2d---technical.css" crc="62426684" ref="phone>2d---technical"/>
+      <file name="detail-drawings.css" crc="62426684" ref="phone>detail-drawings"/>
+      <file name="diverse-renders.css" crc="62426684" ref="phone>diverse-renders"/>
+      <file name="triangle-stairs.css" crc="62426684" ref="phone>triangle-stairs"/>
+      <file name="refolding-space.css" crc="62426684" ref="phone>refolding-space"/>
+      <file name="the-wanderer.css" crc="62426684" ref="phone>the-wanderer"/>
+      <file name="creative-mind.css" crc="62426684" ref="phone>creative-mind"/>
+      <file name="spatial-design.css" crc="62426684" ref="phone>spatial-design"/>
+      <file name="playful-space.css" crc="62426684" ref="phone>playful-space"/>
+      <file name="interactive-pavilion.css" crc="62426684" ref="phone>interactive-pavilion"/>
+      <file name="index.css" crc="4047994302" ref="phone>index"/>
+      <file name="dancing-with-light.css" crc="62426684" ref="phone>dancing-with-light"/>
+      <file name="own-world.css" crc="62426684" ref="phone>own-world"/>
+      <file name="lamp-design.css" crc="62426684" ref="phone>lamp-design"/>
+      <file name="3d-modeling.css" crc="62426684" ref="phone>3d-modeling"/>
+      <file name="interior-design.css" crc="62426684" ref="phone>interior-design"/>
+      <file name="shopping-window.css" crc="62426684" ref="phone>shopping-window"/>
+      <file name="tokio-house.css" crc="62426684" ref="phone>tokio-house"/>
+      <file name="interior-design-fair.css" crc="62426684" ref="phone>interior-design-fair"/>
+      <file name="contact---about-me.css" crc="423578464" ref="phone>contact---about-me"/>
+      <file name="recycled-plastic.css" crc="62426684" ref="phone>recycled-plastic"/>
+      <file name="pastabar.css" crc="62426684" ref="phone>pastabar"/>
+      <file name="renders-internship.css" crc="62426684" ref="phone>renders-internship"/>
+      <file name="hotel-madagascar.css" crc="62426684" ref="phone>hotel-madagascar"/>
+      <file name="drawings-pavilion.css" crc="62426684" ref="phone>drawings-pavilion"/>
+      <file name="drawings-hotelroom.css" crc="62426684" ref="phone>drawings-hotelroom"/>
     </folder>
-    <file name="index.html" crc="3996907955" seo="true" mt="1658576657367" redirect="true"/>
-    <file name="interior-design.html" crc="200796928" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="hotel-madagascar.html" crc="3819005401" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="triangle-stairs.html" crc="3878195869" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="diverse-renders.html" crc="4051604189" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="pastabar.html" crc="4220228140" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="renders-internship.html" crc="3786998589" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="interior-design-fair.html" crc="4263661125" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="2d---technical.html" crc="373771444" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="drawings-hotelroom.html" crc="3955704391" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="recycled-plastic.html" crc="3780041575" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="detail-drawings.html" crc="4264025125" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="drawings-pavilion.html" crc="3957832159" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="the-wanderer.html" crc="3840589139" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="creative-mind.html" crc="3955774218" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="spatial-design.html" crc="167495153" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="refolding-space.html" crc="179931775" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="interactive-pavilion.html" crc="3793885111" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="dancing-with-light.html" crc="223781189" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="lamp-design.html" crc="445784846" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="3d-modeling.html" crc="4268159571" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="playful-space.html" crc="352677940" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="shopping-window.html" crc="227228269" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="tokio-house.html" crc="4159932720" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="own-world.html" crc="4120548362" seo="true" mt="1658570546950" redirect="true"/>
-    <file name="contact---about-me.html" crc="4201765331" seo="true" mt="1658576741382" redirect="true"/>
+    <file name="index.html" crc="4106225478" seo="true" mt="1658606415916" redirect="true"/>
+    <file name="interior-design.html" crc="507301869" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="hotel-madagascar.html" crc="139684357" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="triangle-stairs.html" crc="229673012" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="diverse-renders.html" crc="3806881117" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="pastabar.html" crc="3788150905" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="renders-internship.html" crc="459256022" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="interior-design-fair.html" crc="3920274544" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="2d---technical.html" crc="334898472" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="drawings-hotelroom.html" crc="495588322" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="recycled-plastic.html" crc="4239229117" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="detail-drawings.html" crc="427725133" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="drawings-pavilion.html" crc="24767424" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="the-wanderer.html" crc="3782042388" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="creative-mind.html" crc="207478905" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="spatial-design.html" crc="4102863999" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="refolding-space.html" crc="4181008617" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="interactive-pavilion.html" crc="3954494271" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="dancing-with-light.html" crc="445787113" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="lamp-design.html" crc="29793750" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="3d-modeling.html" crc="4085829796" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="playful-space.html" crc="4200087537" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="shopping-window.html" crc="4088383710" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="tokio-house.html" crc="3897696318" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="own-world.html" crc="3808136133" seo="true" mt="1658606405533" redirect="false"/>
+    <file name="contact---about-me.html" crc="3966649317" seo="true" mt="1658606452255" redirect="true"/>
   </folder>
   <file name="index.html" crc="3896193985" seo="true" mt="1658570140520" redirect="true"/>
-  <file name="interior-design.html" crc="4257689415" seo="true" mt="1658570140541" redirect="true"/>
-  <file name="2d---technical.html" crc="3822169642" seo="true" mt="1658570140823" redirect="true"/>
-  <file name="spatial-design.html" crc="4057031950" seo="true" mt="1658570141116" redirect="true"/>
+  <file name="interior-design.html" crc="10954516" seo="true" mt="1658570140541" redirect="true"/>
+  <file name="2d---technical.html" crc="4231946262" seo="true" mt="1658570140823" redirect="true"/>
+  <file name="spatial-design.html" crc="4270820537" seo="true" mt="1658570141116" redirect="true"/>
   <file name="contact---about-me.html" crc="297642840" seo="true" mt="1658570141533" redirect="true"/>
-  <file name="hotel-madagascar.html" crc="31597308" seo="true" mt="1658570140572" redirect="true"/>
-  <file name="triangle-stairs.html" crc="3798251051" seo="true" mt="1658570140614" redirect="true"/>
-  <file name="diverse-renders.html" crc="4175180248" seo="true" mt="1658570140657" redirect="true"/>
-  <file name="pastabar.html" crc="4110687963" seo="true" mt="1658570140697" redirect="true"/>
-  <file name="renders-internship.html" crc="423986070" seo="true" mt="1658570140739" redirect="true"/>
-  <file name="interior-design-fair.html" crc="307798759" seo="true" mt="1658570140782" redirect="true"/>
-  <file name="drawings-hotelroom.html" crc="243664521" seo="true" mt="1658570140866" redirect="true"/>
-  <file name="recycled-plastic.html" crc="129705417" seo="true" mt="1658570140908" redirect="true"/>
-  <file name="detail-drawings.html" crc="4144470835" seo="true" mt="1658570140947" redirect="true"/>
-  <file name="drawings-pavilion.html" crc="189712579" seo="true" mt="1658570140989" redirect="true"/>
-  <file name="the-wanderer.html" crc="302560804" seo="true" mt="1658570141029" redirect="true"/>
-  <file name="creative-mind.html" crc="3873837383" seo="true" mt="1658570141073" redirect="true"/>
-  <file name="refolding-space.html" crc="74482580" seo="true" mt="1658570141158" redirect="true"/>
-  <file name="interactive-pavilion.html" crc="4141183963" seo="true" mt="1658570141198" redirect="true"/>
-  <file name="dancing-with-light.html" crc="515829447" seo="true" mt="1658570141242" redirect="true"/>
-  <file name="lamp-design.html" crc="4159416855" seo="true" mt="1658570141283" redirect="true"/>
-  <file name="3d-modeling.html" crc="25032318" seo="true" mt="1658570141321" redirect="true"/>
-  <file name="playful-space.html" crc="4124796290" seo="true" mt="1658570141365" redirect="true"/>
-  <file name="shopping-window.html" crc="3939262198" seo="true" mt="1658570141410" redirect="true"/>
-  <file name="tokio-house.html" crc="181404298" seo="true" mt="1658570141450" redirect="true"/>
-  <file name="own-world.html" crc="337561523" seo="true" mt="1658570141492" redirect="true"/>
+  <file name="hotel-madagascar.html" crc="4237354627" seo="true" mt="1658570140572" redirect="true"/>
+  <file name="triangle-stairs.html" crc="4146354298" seo="true" mt="1658570140614" redirect="true"/>
+  <file name="diverse-renders.html" crc="31077945" seo="true" mt="1658570140657" redirect="true"/>
+  <file name="pastabar.html" crc="4233148519" seo="true" mt="1658570140697" redirect="true"/>
+  <file name="renders-internship.html" crc="4240117016" seo="true" mt="1658570140739" redirect="true"/>
+  <file name="interior-design-fair.html" crc="4166150298" seo="true" mt="1658570140782" redirect="true"/>
+  <file name="drawings-hotelroom.html" crc="56211680" seo="true" mt="1658570140866" redirect="true"/>
+  <file name="recycled-plastic.html" crc="4177089999" seo="true" mt="1658570140908" redirect="true"/>
+  <file name="detail-drawings.html" crc="3949074708" seo="true" mt="1658570140947" redirect="true"/>
+  <file name="drawings-pavilion.html" crc="174508130" seo="true" mt="1658570140989" redirect="true"/>
+  <file name="the-wanderer.html" crc="16853064" seo="true" mt="1658570141029" redirect="true"/>
+  <file name="creative-mind.html" crc="3765832999" seo="true" mt="1658570141073" redirect="true"/>
+  <file name="refolding-space.html" crc="3913647974" seo="true" mt="1658570141158" redirect="true"/>
+  <file name="interactive-pavilion.html" crc="4145551760" seo="true" mt="1658570141198" redirect="true"/>
+  <file name="dancing-with-light.html" crc="373329580" seo="true" mt="1658570141242" redirect="true"/>
+  <file name="lamp-design.html" crc="4063976857" seo="true" mt="1658570141283" redirect="true"/>
+  <file name="3d-modeling.html" crc="483919160" seo="true" mt="1658570141321" redirect="true"/>
+  <file name="playful-space.html" crc="3803351252" seo="true" mt="1658570141365" redirect="true"/>
+  <file name="shopping-window.html" crc="3987835727" seo="true" mt="1658570141410" redirect="true"/>
+  <file name="tokio-house.html" crc="3834142873" seo="true" mt="1658570141450" redirect="true"/>
+  <file name="own-world.html" crc="286202022" seo="true" mt="1658570141492" redirect="true"/>
 </manifest>
