@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="createdbycolette.com" resolutions="1x" timestamp="1658670028601">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="createdbycolette.com" resolutions="1x" timestamp="1658670469312">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-stramien.css" crc="4082752056" ref="colette---tokio-house:colette---triangle-stairs:colette---own-world:colette---pastabar:colette---recycled-plastic:colette---refolding-space:colette---dancing-with-light:colette---hotel-madagascar:colette---diverse-renders:colette---playful-space:colette---interactive-pavilion:colette---lamp-design:colette---creative-mind:colette---3d-modeling:colette---shopping-window:colette---renders-internship:colette---drawings-hotelroom:colette---spatial-design:index:colette---interior-design:colette---the-wanderer:colette---interior-design-fair:colette---2d---technical:colette---contact---about-me:colette---drawings-pavilion:colette---detail-drawings"/>
@@ -525,7 +525,7 @@
       <file name="shopping-window.css" crc="62426684" ref="phone>shopping-window"/>
       <file name="tokio-house.css" crc="62426684" ref="phone>tokio-house"/>
       <file name="own-world.css" crc="62426684" ref="phone>own-world"/>
-      <file name="colette---contact---about-me.css" crc="3962240034" ref="phone>colette---contact---about-me"/>
+      <file name="colette---contact---about-me.css" crc="289658444" ref="phone>colette---contact---about-me"/>
       <file name="triangle-stairs.css" crc="62426684" ref="phone>triangle-stairs"/>
     </folder>
     <file name="index.html" crc="4034977431" seo="true" mt="1658668441906" redirect="true"/>
@@ -553,7 +553,7 @@
     <file name="shopping-window.html" crc="116057414" seo="true" mt="1658659096357" redirect="false"/>
     <file name="tokio-house.html" crc="3911264246" seo="true" mt="1658659102941" redirect="false"/>
     <file name="own-world.html" crc="512214081" seo="true" mt="1658659107701" redirect="false"/>
-    <file name="colette---contact---about-me.html" crc="11750846" seo="true" mt="1658668452993" redirect="true"/>
+    <file name="colette---contact---about-me.html" crc="4009987387" seo="true" mt="1658670423557" redirect="true"/>
   </folder>
   <file name="index.html" crc="4122431430" seo="true" mt="1658666728605" redirect="true"/>
   <file name="colette---interior-design.html" crc="4274569542" seo="true" mt="1658667698624" redirect="true"/>
