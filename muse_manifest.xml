@@ -1,42 +1,46 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="createdbycolette.com" resolutions="1x" timestamp="1706202076673">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="createdbycolette.com" resolutions="1x" timestamp="1716650128273">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-stramien.css" crc="4082752056" ref="colette---dancing-with-light:colette---3d-modeling:colette---creative-mind:colette---2d---technical:colette---playful-space:colette---interior-design:colette---hotel-madagascar:colette---spatial-design:colette---detail-drawings:colette---contact---about-me:colette---drawings-hotelroom:colette---pastabar:colette---triangle-stairs:colette---diverse-renders:colette---drawings-pavilion:index:colette---renders-internship:colette---interior-design-fair:colette---refolding-space:colette---tokio-house:colette---lamp-design:colette---the-wanderer:colette---own-world:colette---shopping-window:colette---recycled-plastic:colette---interactive-pavilion:colette---playful-interior:colette---modulair-chair:colette---scheepvaartmuseum:colette---playful-waiting:colette---rijks-restaurant:colette---bread-corner:colette---drawings-school:colette---explorative-school:colette---curious-spaces"/>
-    <file name="colette---dancing-with-light.css" crc="111286175" ref="colette---dancing-with-light"/>
-    <file name="colette---3d-modeling.css" crc="209926924" ref="colette---3d-modeling"/>
-    <file name="colette---creative-mind.css" crc="356073565" ref="colette---creative-mind"/>
-    <file name="colette---2d---technical.css" crc="4026881230" ref="colette---2d---technical"/>
-    <file name="colette---playful-space.css" crc="3820720821" ref="colette---playful-space"/>
-    <file name="colette---interior-design.css" crc="4171724136" ref="colette---interior-design"/>
-    <file name="colette---hotel-madagascar.css" crc="267884022" ref="colette---hotel-madagascar"/>
-    <file name="colette---spatial-design.css" crc="3818010772" ref="colette---spatial-design"/>
-    <file name="colette---detail-drawings.css" crc="4092808851" ref="colette---detail-drawings"/>
-    <file name="colette---contact---about-me.css" crc="241046006" ref="colette---contact---about-me"/>
-    <file name="colette---drawings-hotelroom.css" crc="67145998" ref="colette---drawings-hotelroom"/>
-    <file name="colette---pastabar.css" crc="4286252186" ref="colette---pastabar"/>
-    <file name="colette---triangle-stairs.css" crc="431930534" ref="colette---triangle-stairs"/>
-    <file name="colette---diverse-renders.css" crc="4263887932" ref="colette---diverse-renders"/>
-    <file name="colette---drawings-pavilion.css" crc="4052087396" ref="colette---drawings-pavilion"/>
-    <file name="index.css" crc="498558705" ref="index"/>
-    <file name="colette---renders-internship.css" crc="394199600" ref="colette---renders-internship"/>
-    <file name="colette---interior-design-fair.css" crc="3934680958" ref="colette---interior-design-fair"/>
-    <file name="colette---refolding-space.css" crc="3900923667" ref="colette---refolding-space"/>
-    <file name="colette---tokio-house.css" crc="4230882136" ref="colette---tokio-house"/>
-    <file name="colette---lamp-design.css" crc="4037083290" ref="colette---lamp-design"/>
+    <file name="master_a-stramien.css" crc="4082752056" ref="colette---the-wanderer:colette---playful-waiting:colette---pastabar:colette---tokio-house:index:colette---lighting-scheepvaart:colette---playful-space:colette---recycled-plastic:colette---interior-design:colette---drawings-school:colette---explorative-school:colette---dancing-with-light:colette---spatial-design:colette---hotelroom:colette---creative-mind:colette---modulair-chair:colette---bread-corner:colette---drawings-pavilion:colette---scheepvaartmuseum:colette---interior-design-fair:colette---3d-modeling:colette---2d---technical:colette---lighting-plans:colette---refolding-space:colette---rijks-restaurant:colette---diverse-renders:colette---drawings-hotelroom:colette---interactive-pavilion:colette---detail-drawings:colette---contact---about-me:colette---renders-internship:colette---curious-spaces:colette---explorative-school-lighting:colette---hotel-madagascar:colette---own-world:colette---lamp-design:colette---playful-interior:colette---triangle-stairs:colette---shopping-window"/>
     <file name="colette---the-wanderer.css" crc="4268029708" ref="colette---the-wanderer"/>
-    <file name="colette---own-world.css" crc="4026334408" ref="colette---own-world"/>
-    <file name="colette---shopping-window.css" crc="161005100" ref="colette---shopping-window"/>
-    <file name="colette---recycled-plastic.css" crc="3837948338" ref="colette---recycled-plastic"/>
-    <file name="colette---interactive-pavilion.css" crc="148058440" ref="colette---interactive-pavilion"/>
-    <file name="colette---playful-interior.css" crc="158307039" ref="colette---playful-interior"/>
-    <file name="colette---modulair-chair.css" crc="212220317" ref="colette---modulair-chair"/>
-    <file name="colette---scheepvaartmuseum.css" crc="4130696299" ref="colette---scheepvaartmuseum"/>
     <file name="colette---playful-waiting.css" crc="150377814" ref="colette---playful-waiting"/>
-    <file name="colette---rijks-restaurant.css" crc="405973628" ref="colette---rijks-restaurant"/>
-    <file name="colette---bread-corner.css" crc="3821227779" ref="colette---bread-corner"/>
+    <file name="colette---pastabar.css" crc="4286252186" ref="colette---pastabar"/>
+    <file name="colette---tokio-house.css" crc="4230882136" ref="colette---tokio-house"/>
+    <file name="index.css" crc="498558705" ref="index"/>
+    <file name="colette---lighting-scheepvaart.css" crc="380432035" ref="colette---lighting-scheepvaart"/>
+    <file name="colette---playful-space.css" crc="3820720821" ref="colette---playful-space"/>
+    <file name="colette---recycled-plastic.css" crc="3837948338" ref="colette---recycled-plastic"/>
+    <file name="colette---interior-design.css" crc="115641671" ref="colette---interior-design"/>
     <file name="colette---drawings-school.css" crc="248264323" ref="colette---drawings-school"/>
-    <file name="colette---explorative-school.css" crc="3948781331" ref="colette---explorative-school"/>
+    <file name="colette---explorative-school.css" crc="4275180664" ref="colette---explorative-school"/>
+    <file name="colette---dancing-with-light.css" crc="264829979" ref="colette---dancing-with-light"/>
+    <file name="colette---spatial-design.css" crc="3818010772" ref="colette---spatial-design"/>
+    <file name="colette---hotelroom.css" crc="3945942620" ref="colette---hotelroom"/>
+    <file name="colette---creative-mind.css" crc="356073565" ref="colette---creative-mind"/>
+    <file name="colette---modulair-chair.css" crc="212220317" ref="colette---modulair-chair"/>
+    <file name="colette---bread-corner.css" crc="3821227779" ref="colette---bread-corner"/>
+    <file name="colette---drawings-pavilion.css" crc="203833928" ref="colette---drawings-pavilion"/>
+    <file name="colette---scheepvaartmuseum.css" crc="4130696299" ref="colette---scheepvaartmuseum"/>
+    <file name="colette---interior-design-fair.css" crc="3934680958" ref="colette---interior-design-fair"/>
+    <file name="colette---3d-modeling.css" crc="209926924" ref="colette---3d-modeling"/>
+    <file name="colette---2d---technical.css" crc="4026881230" ref="colette---2d---technical"/>
+    <file name="colette---lighting-plans.css" crc="365184422" ref="colette---lighting-plans"/>
+    <file name="colette---refolding-space.css" crc="3883973458" ref="colette---refolding-space"/>
+    <file name="colette---rijks-restaurant.css" crc="405973628" ref="colette---rijks-restaurant"/>
+    <file name="colette---diverse-renders.css" crc="4263887932" ref="colette---diverse-renders"/>
+    <file name="colette---drawings-hotelroom.css" crc="377253845" ref="colette---drawings-hotelroom"/>
+    <file name="colette---interactive-pavilion.css" crc="148058440" ref="colette---interactive-pavilion"/>
+    <file name="colette---detail-drawings.css" crc="4092808851" ref="colette---detail-drawings"/>
+    <file name="colette---contact---about-me.css" crc="4125546012" ref="colette---contact---about-me"/>
+    <file name="colette---renders-internship.css" crc="394199600" ref="colette---renders-internship"/>
     <file name="colette---curious-spaces.css" crc="523175094" ref="colette---curious-spaces"/>
+    <file name="colette---explorative-school-lighting.css" crc="4043635826" ref="colette---explorative-school-lighting"/>
+    <file name="colette---hotel-madagascar.css" crc="241004077" ref="colette---hotel-madagascar"/>
+    <file name="colette---own-world.css" crc="4026334408" ref="colette---own-world"/>
+    <file name="colette---lamp-design.css" crc="4037083290" ref="colette---lamp-design"/>
+    <file name="colette---playful-interior.css" crc="158307039" ref="colette---playful-interior"/>
+    <file name="colette---triangle-stairs.css" crc="431930534" ref="colette---triangle-stairs"/>
+    <file name="colette---shopping-window.css" crc="161005100" ref="colette---shopping-window"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-v25-latin-regular1.woff" crc="241904545"/>
@@ -48,173 +52,199 @@
     <file name="int-architectuurtekening-woning-a1-poster.pdf" crc="4149660364" seo="true" mt="1671204201000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting"/>
-    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting"/>
-    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting"/>
-    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting"/>
-    <file name="require.js" crc="4177726516" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>interior-design:phone>hotel-madagascar:phone>triangle-stairs:phone>diverse-renders:phone>pastabar:phone>renders-internship:phone>interior-design-fair:phone>2d---technical:phone>drawings-hotelroom:phone>recycled-plastic:phone>detail-drawings:phone>drawings-pavilion:phone>the-wanderer:phone>creative-mind:phone>spatial-design:phone>refolding-space:phone>interactive-pavilion:phone>dancing-with-light:phone>lamp-design:phone>3d-modeling:phone>playful-space:phone>shopping-window:phone>tokio-house:phone>own-world:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart"/>
   </folder>
   <folder name="images">
-    <file name="logo colette lentink.png" crc="3913447475" seo="true" ref="phone>index:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting">
-      <caption webpage="colette---diverse-renders" alt=""/>
-      <caption webpage="colette---curious-spaces" alt=""/>
-      <caption webpage="colette---drawings-pavilion" alt=""/>
-      <caption webpage="colette---triangle-stairs" alt=""/>
-      <caption webpage="colette---2d---technical" alt=""/>
-      <caption webpage="colette---tokio-house" alt=""/>
-      <caption webpage="colette---3d-modeling" alt=""/>
-      <caption webpage="colette---spatial-design" alt=""/>
-      <caption webpage="colette---interior-design-fair" alt=""/>
-      <caption webpage="colette---bread-corner" alt=""/>
-      <caption webpage="colette---playful-waiting" alt=""/>
-      <caption webpage="colette---recycled-plastic" alt=""/>
-      <caption webpage="colette---lamp-design" alt=""/>
-      <caption webpage="colette---detail-drawings" alt=""/>
-      <caption webpage="colette---playful-interior" alt=""/>
-      <caption webpage="colette---own-world" alt=""/>
-      <caption webpage="colette---hotel-madagascar" alt=""/>
-      <caption webpage="colette---contact---about-me" alt=""/>
-      <caption webpage="colette---contact---about-me" alt=""/>
-      <caption webpage="colette---drawings-hotelroom" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="colette---scheepvaartmuseum" alt=""/>
+    <file name="logo colette lentink.png" crc="3913447475" seo="true" ref="phone>index:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart">
+      <caption webpage="colette---interactive-pavilion" alt=""/>
       <caption webpage="colette---drawings-school" alt=""/>
-      <caption webpage="colette---modulair-chair" alt=""/>
+      <caption webpage="colette---scheepvaartmuseum" alt=""/>
+      <caption webpage="colette---diverse-renders" alt=""/>
+      <caption webpage="colette---tokio-house" alt=""/>
+      <caption webpage="colette---drawings-pavilion" alt=""/>
+      <caption webpage="colette---own-world" alt=""/>
       <caption webpage="colette---refolding-space" alt=""/>
+      <caption webpage="colette---detail-drawings" alt=""/>
+      <caption webpage="colette---pastabar" alt=""/>
+      <caption webpage="colette---creative-mind" alt=""/>
+      <caption webpage="colette---bread-corner" alt=""/>
+      <caption webpage="colette---rijks-restaurant" alt=""/>
+      <caption webpage="colette---lighting-scheepvaart" alt=""/>
+      <caption webpage="colette---curious-spaces" alt=""/>
+      <caption webpage="colette---triangle-stairs" alt=""/>
+      <caption webpage="colette---hotel-madagascar" alt=""/>
+      <caption webpage="colette---playful-waiting" alt=""/>
+      <caption webpage="colette---the-wanderer" alt=""/>
+      <caption webpage="colette---lighting-plans" alt=""/>
+      <caption webpage="colette---interior-design" alt=""/>
+      <caption webpage="colette---lamp-design" alt=""/>
+      <caption webpage="colette---explorative-school-lighting" alt=""/>
+      <caption webpage="colette---renders-internship" alt=""/>
+      <caption webpage="colette---3d-modeling" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="colette---drawings-hotelroom" alt=""/>
+      <caption webpage="colette---interior-design-fair" alt=""/>
+      <caption webpage="colette---playful-space" alt=""/>
+      <caption webpage="colette---recycled-plastic" alt=""/>
+      <caption webpage="colette---2d---technical" alt=""/>
       <caption webpage="colette---shopping-window" alt=""/>
+      <caption webpage="colette---hotelroom" alt=""/>
+      <caption webpage="colette---modulair-chair" alt=""/>
+      <caption webpage="colette---spatial-design" alt=""/>
       <caption webpage="colette---explorative-school" alt=""/>
       <caption webpage="colette---dancing-with-light" alt=""/>
-      <caption webpage="colette---playful-space" alt=""/>
-      <caption webpage="colette---rijks-restaurant" alt=""/>
-      <caption webpage="colette---renders-internship" alt=""/>
-      <caption webpage="colette---pastabar" alt=""/>
-      <caption webpage="colette---interior-design" alt=""/>
-      <caption webpage="colette---interactive-pavilion" alt=""/>
-      <caption webpage="colette---the-wanderer" alt=""/>
-      <caption webpage="colette---creative-mind" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---playful-interior" alt=""/>
     </file>
     <file name="int patio driehoekjes 02-crop-u7027.jpg" crc="126630299" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="174857.png" crc="4181283408" seo="true" ref="phone>index:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting">
-      <caption webpage="colette---diverse-renders" alt=""/>
-      <caption webpage="colette---curious-spaces" alt=""/>
-      <caption webpage="colette---drawings-pavilion" alt=""/>
-      <caption webpage="colette---triangle-stairs" alt=""/>
-      <caption webpage="colette---2d---technical" alt=""/>
-      <caption webpage="colette---tokio-house" alt=""/>
-      <caption webpage="colette---3d-modeling" alt=""/>
-      <caption webpage="colette---spatial-design" alt=""/>
-      <caption webpage="colette---interior-design-fair" alt=""/>
-      <caption webpage="colette---bread-corner" alt=""/>
-      <caption webpage="colette---playful-waiting" alt=""/>
-      <caption webpage="colette---recycled-plastic" alt=""/>
-      <caption webpage="colette---lamp-design" alt=""/>
-      <caption webpage="colette---detail-drawings" alt=""/>
-      <caption webpage="colette---playful-interior" alt=""/>
-      <caption webpage="colette---own-world" alt=""/>
-      <caption webpage="colette---hotel-madagascar" alt=""/>
-      <caption webpage="colette---contact---about-me" alt=""/>
-      <caption webpage="colette---contact---about-me" alt=""/>
-      <caption webpage="colette---drawings-hotelroom" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="colette---scheepvaartmuseum" alt=""/>
+    <file name="174857.png" crc="4181283408" seo="true" ref="phone>index:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart">
+      <caption webpage="colette---interactive-pavilion" alt=""/>
       <caption webpage="colette---drawings-school" alt=""/>
-      <caption webpage="colette---modulair-chair" alt=""/>
+      <caption webpage="colette---scheepvaartmuseum" alt=""/>
+      <caption webpage="colette---diverse-renders" alt=""/>
+      <caption webpage="colette---tokio-house" alt=""/>
+      <caption webpage="colette---drawings-pavilion" alt=""/>
+      <caption webpage="colette---own-world" alt=""/>
       <caption webpage="colette---refolding-space" alt=""/>
+      <caption webpage="colette---detail-drawings" alt=""/>
+      <caption webpage="colette---pastabar" alt=""/>
+      <caption webpage="colette---creative-mind" alt=""/>
+      <caption webpage="colette---bread-corner" alt=""/>
+      <caption webpage="colette---rijks-restaurant" alt=""/>
+      <caption webpage="colette---lighting-scheepvaart" alt=""/>
+      <caption webpage="colette---curious-spaces" alt=""/>
+      <caption webpage="colette---triangle-stairs" alt=""/>
+      <caption webpage="colette---hotel-madagascar" alt=""/>
+      <caption webpage="colette---playful-waiting" alt=""/>
+      <caption webpage="colette---the-wanderer" alt=""/>
+      <caption webpage="colette---lighting-plans" alt=""/>
+      <caption webpage="colette---interior-design" alt=""/>
+      <caption webpage="colette---lamp-design" alt=""/>
+      <caption webpage="colette---explorative-school-lighting" alt=""/>
+      <caption webpage="colette---renders-internship" alt=""/>
+      <caption webpage="colette---3d-modeling" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="colette---drawings-hotelroom" alt=""/>
+      <caption webpage="colette---interior-design-fair" alt=""/>
+      <caption webpage="colette---playful-space" alt=""/>
+      <caption webpage="colette---recycled-plastic" alt=""/>
+      <caption webpage="colette---2d---technical" alt=""/>
       <caption webpage="colette---shopping-window" alt=""/>
+      <caption webpage="colette---hotelroom" alt=""/>
+      <caption webpage="colette---modulair-chair" alt=""/>
+      <caption webpage="colette---spatial-design" alt=""/>
       <caption webpage="colette---explorative-school" alt=""/>
       <caption webpage="colette---dancing-with-light" alt=""/>
-      <caption webpage="colette---playful-space" alt=""/>
-      <caption webpage="colette---rijks-restaurant" alt=""/>
-      <caption webpage="colette---renders-internship" alt=""/>
-      <caption webpage="colette---pastabar" alt=""/>
-      <caption webpage="colette---interior-design" alt=""/>
-      <caption webpage="colette---interactive-pavilion" alt=""/>
-      <caption webpage="colette---the-wanderer" alt=""/>
-      <caption webpage="colette---creative-mind" alt=""/>
-    </file>
-    <file name="instagram-logo-png-photo.png" crc="437795350" seo="true" ref="phone>index:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting">
-      <caption webpage="colette---diverse-renders" alt=""/>
-      <caption webpage="colette---curious-spaces" alt=""/>
-      <caption webpage="colette---drawings-pavilion" alt=""/>
-      <caption webpage="colette---triangle-stairs" alt=""/>
-      <caption webpage="colette---2d---technical" alt=""/>
-      <caption webpage="colette---tokio-house" alt=""/>
-      <caption webpage="colette---3d-modeling" alt=""/>
-      <caption webpage="colette---spatial-design" alt=""/>
-      <caption webpage="colette---interior-design-fair" alt=""/>
-      <caption webpage="colette---bread-corner" alt=""/>
-      <caption webpage="colette---playful-waiting" alt=""/>
-      <caption webpage="colette---recycled-plastic" alt=""/>
-      <caption webpage="colette---lamp-design" alt=""/>
-      <caption webpage="colette---detail-drawings" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
       <caption webpage="colette---playful-interior" alt=""/>
-      <caption webpage="colette---own-world" alt=""/>
-      <caption webpage="colette---hotel-madagascar" alt=""/>
-      <caption webpage="colette---contact---about-me" alt=""/>
-      <caption webpage="colette---contact---about-me" alt=""/>
-      <caption webpage="colette---drawings-hotelroom" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="colette---scheepvaartmuseum" alt=""/>
+    </file>
+    <file name="instagram-logo-png-photo.png" crc="437795350" seo="true" ref="phone>index:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart">
+      <caption webpage="colette---interactive-pavilion" alt=""/>
       <caption webpage="colette---drawings-school" alt=""/>
-      <caption webpage="colette---modulair-chair" alt=""/>
+      <caption webpage="colette---scheepvaartmuseum" alt=""/>
+      <caption webpage="colette---diverse-renders" alt=""/>
+      <caption webpage="colette---tokio-house" alt=""/>
+      <caption webpage="colette---drawings-pavilion" alt=""/>
+      <caption webpage="colette---own-world" alt=""/>
       <caption webpage="colette---refolding-space" alt=""/>
+      <caption webpage="colette---detail-drawings" alt=""/>
+      <caption webpage="colette---pastabar" alt=""/>
+      <caption webpage="colette---creative-mind" alt=""/>
+      <caption webpage="colette---bread-corner" alt=""/>
+      <caption webpage="colette---rijks-restaurant" alt=""/>
+      <caption webpage="colette---lighting-scheepvaart" alt=""/>
+      <caption webpage="colette---curious-spaces" alt=""/>
+      <caption webpage="colette---triangle-stairs" alt=""/>
+      <caption webpage="colette---hotel-madagascar" alt=""/>
+      <caption webpage="colette---playful-waiting" alt=""/>
+      <caption webpage="colette---the-wanderer" alt=""/>
+      <caption webpage="colette---lighting-plans" alt=""/>
+      <caption webpage="colette---interior-design" alt=""/>
+      <caption webpage="colette---lamp-design" alt=""/>
+      <caption webpage="colette---explorative-school-lighting" alt=""/>
+      <caption webpage="colette---renders-internship" alt=""/>
+      <caption webpage="colette---3d-modeling" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="colette---drawings-hotelroom" alt=""/>
+      <caption webpage="colette---interior-design-fair" alt=""/>
+      <caption webpage="colette---playful-space" alt=""/>
+      <caption webpage="colette---recycled-plastic" alt=""/>
+      <caption webpage="colette---2d---technical" alt=""/>
       <caption webpage="colette---shopping-window" alt=""/>
+      <caption webpage="colette---hotelroom" alt=""/>
+      <caption webpage="colette---modulair-chair" alt=""/>
+      <caption webpage="colette---spatial-design" alt=""/>
       <caption webpage="colette---explorative-school" alt=""/>
       <caption webpage="colette---dancing-with-light" alt=""/>
-      <caption webpage="colette---playful-space" alt=""/>
-      <caption webpage="colette---rijks-restaurant" alt=""/>
-      <caption webpage="colette---renders-internship" alt=""/>
-      <caption webpage="colette---pastabar" alt=""/>
-      <caption webpage="colette---interior-design" alt=""/>
-      <caption webpage="colette---interactive-pavilion" alt=""/>
-      <caption webpage="colette---the-wanderer" alt=""/>
-      <caption webpage="colette---creative-mind" alt=""/>
-    </file>
-    <file name="free-youtube-logo-icon-2431-thumb.png" crc="4120412302" seo="true" ref="phone>index:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting">
-      <caption webpage="colette---diverse-renders" alt=""/>
-      <caption webpage="colette---curious-spaces" alt=""/>
-      <caption webpage="colette---drawings-pavilion" alt=""/>
-      <caption webpage="colette---triangle-stairs" alt=""/>
-      <caption webpage="colette---2d---technical" alt=""/>
-      <caption webpage="colette---tokio-house" alt=""/>
-      <caption webpage="colette---3d-modeling" alt=""/>
-      <caption webpage="colette---spatial-design" alt=""/>
-      <caption webpage="colette---interior-design-fair" alt=""/>
-      <caption webpage="colette---bread-corner" alt=""/>
-      <caption webpage="colette---playful-waiting" alt=""/>
-      <caption webpage="colette---recycled-plastic" alt=""/>
-      <caption webpage="colette---lamp-design" alt=""/>
-      <caption webpage="colette---detail-drawings" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
       <caption webpage="colette---playful-interior" alt=""/>
-      <caption webpage="colette---own-world" alt=""/>
-      <caption webpage="colette---hotel-madagascar" alt=""/>
-      <caption webpage="colette---contact---about-me" alt=""/>
-      <caption webpage="colette---contact---about-me" alt=""/>
-      <caption webpage="colette---drawings-hotelroom" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="colette---scheepvaartmuseum" alt=""/>
+    </file>
+    <file name="free-youtube-logo-icon-2431-thumb.png" crc="4120412302" seo="true" ref="phone>index:phone>colette---contact---about-me:index:colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart">
+      <caption webpage="colette---interactive-pavilion" alt=""/>
       <caption webpage="colette---drawings-school" alt=""/>
-      <caption webpage="colette---modulair-chair" alt=""/>
+      <caption webpage="colette---scheepvaartmuseum" alt=""/>
+      <caption webpage="colette---diverse-renders" alt=""/>
+      <caption webpage="colette---tokio-house" alt=""/>
+      <caption webpage="colette---drawings-pavilion" alt=""/>
+      <caption webpage="colette---own-world" alt=""/>
       <caption webpage="colette---refolding-space" alt=""/>
+      <caption webpage="colette---detail-drawings" alt=""/>
+      <caption webpage="colette---pastabar" alt=""/>
+      <caption webpage="colette---creative-mind" alt=""/>
+      <caption webpage="colette---bread-corner" alt=""/>
+      <caption webpage="colette---rijks-restaurant" alt=""/>
+      <caption webpage="colette---lighting-scheepvaart" alt=""/>
+      <caption webpage="colette---curious-spaces" alt=""/>
+      <caption webpage="colette---triangle-stairs" alt=""/>
+      <caption webpage="colette---hotel-madagascar" alt=""/>
+      <caption webpage="colette---playful-waiting" alt=""/>
+      <caption webpage="colette---the-wanderer" alt=""/>
+      <caption webpage="colette---lighting-plans" alt=""/>
+      <caption webpage="colette---interior-design" alt=""/>
+      <caption webpage="colette---lamp-design" alt=""/>
+      <caption webpage="colette---explorative-school-lighting" alt=""/>
+      <caption webpage="colette---renders-internship" alt=""/>
+      <caption webpage="colette---3d-modeling" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="colette---drawings-hotelroom" alt=""/>
+      <caption webpage="colette---interior-design-fair" alt=""/>
+      <caption webpage="colette---playful-space" alt=""/>
+      <caption webpage="colette---recycled-plastic" alt=""/>
+      <caption webpage="colette---2d---technical" alt=""/>
       <caption webpage="colette---shopping-window" alt=""/>
+      <caption webpage="colette---hotelroom" alt=""/>
+      <caption webpage="colette---modulair-chair" alt=""/>
+      <caption webpage="colette---spatial-design" alt=""/>
       <caption webpage="colette---explorative-school" alt=""/>
       <caption webpage="colette---dancing-with-light" alt=""/>
-      <caption webpage="colette---playful-space" alt=""/>
-      <caption webpage="colette---rijks-restaurant" alt=""/>
-      <caption webpage="colette---renders-internship" alt=""/>
-      <caption webpage="colette---pastabar" alt=""/>
-      <caption webpage="colette---interior-design" alt=""/>
-      <caption webpage="colette---interactive-pavilion" alt=""/>
-      <caption webpage="colette---the-wanderer" alt=""/>
-      <caption webpage="colette---creative-mind" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---playful-interior" alt=""/>
     </file>
-    <file name="dsc_0023 kleiner350x234.jpg" crc="3957285934" seo="true" ref="phone>colette---contact---about-me">
+    <file name="colette_lentinkbw.jpg" crc="401108292" seo="true" ref="phone>colette---contact---about-me">
       <caption webpage="colette---contact---about-me" alt=""/>
     </file>
     <file name="int patio driehoekjes 02-crop-u387.jpg" crc="126630299" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arc serpentine pavilion 09-crop-u246.jpg" crc="4228723741" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="arc serpentine pavilion 02-crop-u239.jpg" crc="476327263" seo="true" ref="index">
@@ -226,55 +256,62 @@
     <file name="int patio driehoekjes 02-crop-u534.jpg" crc="126630299" seo="true" ref="colette---interior-design">
       <caption webpage="colette---interior-design" alt=""/>
     </file>
-    <file name="batch_000_22-1-2019 apartement acg - shortstay up living utrecht_afbeelding 2_standaard camera-crop-u434.jpg" crc="448501541" seo="true" ref="colette---interior-design">
+    <file name="deltion zone music 2-crop-u319.jpg" crc="3830969041" seo="true" ref="colette---interior-design">
+      <caption webpage="colette---interior-design" alt=""/>
+    </file>
+    <file name="kantoorkamer 02-crop-u8308.jpg" crc="60433527" seo="true" ref="colette---interior-design">
       <caption webpage="colette---interior-design" alt=""/>
     </file>
     <file name="dsc04682-crop-u441.jpg" crc="450743875" seo="true" ref="colette---interior-design">
       <caption webpage="colette---interior-design" alt=""/>
     </file>
-    <file name="back.svg" crc="158678665" seo="true" ref="colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting">
+    <file name="int architectuurtekening woning positie 1-crop-u427.jpg" crc="3858798723" seo="true" ref="colette---interior-design">
+      <caption webpage="colette---interior-design" alt=""/>
+    </file>
+    <file name="batch_000_22-1-2019 apartement acg - shortstay up living utrecht_afbeelding 2_standaard camera-crop-u434.jpg" crc="448501541" seo="true" ref="colette---interior-design">
+      <caption webpage="colette---interior-design" alt=""/>
+    </file>
+    <file name="back.svg" crc="158678665" seo="true" ref="colette---interior-design:colette---2d---technical:colette---spatial-design:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---diverse-renders:colette---pastabar:colette---renders-internship:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---scheepvaartmuseum:colette---bread-corner:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-plans:colette---hotelroom:colette---explorative-school-lighting:colette---lighting-scheepvaart">
+      <caption webpage="colette---own-world" alt=""/>
+      <caption webpage="colette---drawings-school" alt=""/>
+      <caption webpage="colette---scheepvaartmuseum" alt=""/>
       <caption webpage="colette---diverse-renders" alt=""/>
       <caption webpage="colette---tokio-house" alt=""/>
-      <caption webpage="colette---triangle-stairs" alt=""/>
-      <caption webpage="colette---2d---technical" alt=""/>
       <caption webpage="colette---drawings-pavilion" alt=""/>
-      <caption webpage="colette---3d-modeling" alt=""/>
-      <caption webpage="colette---spatial-design" alt=""/>
-      <caption webpage="colette---interior-design-fair" alt=""/>
       <caption webpage="colette---bread-corner" alt=""/>
+      <caption webpage="colette---refolding-space" alt=""/>
+      <caption webpage="colette---detail-drawings" alt=""/>
+      <caption webpage="colette---pastabar" alt=""/>
+      <caption webpage="colette---creative-mind" alt=""/>
+      <caption webpage="colette---rijks-restaurant" alt=""/>
+      <caption webpage="colette---lighting-scheepvaart" alt=""/>
+      <caption webpage="colette---interactive-pavilion" alt=""/>
+      <caption webpage="colette---triangle-stairs" alt=""/>
+      <caption webpage="colette---hotel-madagascar" alt=""/>
+      <caption webpage="colette---curious-spaces" alt=""/>
+      <caption webpage="colette---the-wanderer" alt=""/>
+      <caption webpage="colette---lighting-plans" alt=""/>
+      <caption webpage="colette---interior-design" alt=""/>
+      <caption webpage="colette---lamp-design" alt=""/>
+      <caption webpage="colette---explorative-school-lighting" alt=""/>
+      <caption webpage="colette---renders-internship" alt=""/>
+      <caption webpage="colette---3d-modeling" alt=""/>
+      <caption webpage="colette---drawings-hotelroom" alt=""/>
+      <caption webpage="colette---interior-design-fair" alt=""/>
+      <caption webpage="colette---playful-space" alt=""/>
       <caption webpage="colette---playful-waiting" alt=""/>
       <caption webpage="colette---recycled-plastic" alt=""/>
-      <caption webpage="colette---lamp-design" alt=""/>
-      <caption webpage="colette---detail-drawings" alt=""/>
-      <caption webpage="colette---playful-interior" alt=""/>
-      <caption webpage="colette---own-world" alt=""/>
-      <caption webpage="colette---hotel-madagascar" alt=""/>
-      <caption webpage="colette---contact---about-me" alt=""/>
-      <caption webpage="colette---drawings-hotelroom" alt=""/>
-      <caption webpage="colette---curious-spaces" alt=""/>
-      <caption webpage="colette---scheepvaartmuseum" alt=""/>
-      <caption webpage="colette---drawings-school" alt=""/>
-      <caption webpage="colette---modulair-chair" alt=""/>
-      <caption webpage="colette---refolding-space" alt=""/>
+      <caption webpage="colette---2d---technical" alt=""/>
       <caption webpage="colette---shopping-window" alt=""/>
+      <caption webpage="colette---hotelroom" alt=""/>
+      <caption webpage="colette---modulair-chair" alt=""/>
+      <caption webpage="colette---spatial-design" alt=""/>
       <caption webpage="colette---explorative-school" alt=""/>
       <caption webpage="colette---dancing-with-light" alt=""/>
-      <caption webpage="colette---playful-space" alt=""/>
-      <caption webpage="colette---rijks-restaurant" alt=""/>
-      <caption webpage="colette---renders-internship" alt=""/>
-      <caption webpage="colette---pastabar" alt=""/>
-      <caption webpage="colette---interior-design" alt=""/>
-      <caption webpage="colette---interactive-pavilion" alt=""/>
-      <caption webpage="colette---the-wanderer" alt=""/>
-      <caption webpage="colette---creative-mind" alt=""/>
+      <caption webpage="colette---contact---about-me" alt=""/>
+      <caption webpage="colette---playful-interior" alt=""/>
     </file>
     <file name="back_poster_.png" crc="68879895" ref="colette---interior-design"/>
-    <file name="meu plastic wandkleed 01-crop-u657.jpg" crc="83818291" seo="true" ref="colette---2d---technical">
-      <caption webpage="colette---2d---technical" alt=""/>
-    </file>
-    <file name="tekening gijsbert 02-crop-u663.jpg" crc="3978716639" seo="true" ref="colette---2d---technical">
-      <caption webpage="colette---2d---technical" alt=""/>
-    </file>
     <file name="hotelroom madagascar technical drawing - colette lentink bw-crop-u1170.jpg" crc="143491820" seo="true" ref="colette---2d---technical">
       <caption webpage="colette---2d---technical" alt=""/>
     </file>
@@ -284,13 +321,22 @@
     <file name="portret geschilderdbw2-crop-u667.jpg" crc="3773238325" seo="true" ref="colette---2d---technical">
       <caption webpage="colette---2d---technical" alt=""/>
     </file>
+    <file name="01 aquarel ruimte-crop-u8174.jpg" crc="383010187" seo="true" ref="colette---2d---technical">
+      <caption webpage="colette---2d---technical" alt=""/>
+    </file>
+    <file name="detail studiereis 03-crop-u8092.jpg" crc="418446717" seo="true" ref="colette---2d---technical">
+      <caption webpage="colette---2d---technical" alt=""/>
+    </file>
+    <file name="meu plastic wandkleed 01-crop-u657.jpg" crc="83818291" seo="true" ref="colette---2d---technical">
+      <caption webpage="colette---2d---technical" alt=""/>
+    </file>
+    <file name="tekening gijsbert 02-crop-u663.jpg" crc="3978716639" seo="true" ref="colette---2d---technical">
+      <caption webpage="colette---2d---technical" alt=""/>
+    </file>
     <file name="dsc09361bw-crop-u747.jpg" crc="193293109" seo="true" ref="colette---spatial-design">
       <caption webpage="colette---spatial-design" alt=""/>
     </file>
     <file name="ond 12x12 ruimte 01-crop-u748.jpg" crc="447981778" seo="true" ref="colette---spatial-design">
-      <caption webpage="colette---spatial-design" alt=""/>
-    </file>
-    <file name="poster ontmoetingsplek streetdancers 3-6-21-crop-u749.jpg" crc="3943710884" seo="true" ref="colette---spatial-design">
       <caption webpage="colette---spatial-design" alt=""/>
     </file>
     <file name="skp agripo 3-crop-u1483.jpg" crc="96739395" seo="true" ref="colette---spatial-design">
@@ -299,16 +345,25 @@
     <file name="arc serpentine pavilion 02-crop-u750.jpg" crc="476327263" seo="true" ref="colette---spatial-design">
       <caption webpage="colette---spatial-design" alt=""/>
     </file>
+    <file name="meu sem5 stoel 09-crop-u7511.jpg" crc="424878501" seo="true" ref="colette---spatial-design">
+      <caption webpage="colette---spatial-design" alt=""/>
+    </file>
     <file name="mariska meijers kerstetalage 01-crop-u1639.jpg" crc="4267050893" seo="true" ref="colette---spatial-design">
       <caption webpage="colette---spatial-design" alt=""/>
     </file>
-    <file name="arc tokio huis 01-crop-u1660.jpg" crc="4150736290" seo="true" ref="colette---spatial-design">
+    <file name="int dansstudio 01-crop-u8568.jpg" crc="410784947" seo="true" ref="colette---spatial-design">
       <caption webpage="colette---spatial-design" alt=""/>
     </file>
     <file name="pro you 03-crop-u1653.jpg" crc="3980705982" seo="true" ref="colette---spatial-design">
       <caption webpage="colette---spatial-design" alt=""/>
     </file>
-    <file name="dsc_0023 kleiner.jpg" crc="3933697879" seo="true" ref="colette---contact---about-me">
+    <file name="poster ontmoetingsplek streetdancers 3-6-21-crop-u749.jpg" crc="3943710884" seo="true" ref="colette---spatial-design">
+      <caption webpage="colette---spatial-design" alt=""/>
+    </file>
+    <file name="arc tokio huis 01-crop-u1660.jpg" crc="4150736290" seo="true" ref="colette---spatial-design">
+      <caption webpage="colette---spatial-design" alt=""/>
+    </file>
+    <file name="colette_lentink.jpg" crc="4226125310" seo="true" ref="colette---contact---about-me">
       <caption webpage="colette---contact---about-me" alt=""/>
     </file>
     <file name="int hotel madagascar 04.jpg" crc="493330145" seo="true" ref="colette---hotel-madagascar">
@@ -535,15 +590,6 @@
     <file name="pro you 01.jpg" crc="412814281" seo="true" ref="colette---own-world">
       <caption webpage="colette---own-world" alt=""/>
     </file>
-    <file name="arc serpentine pavilion 09-crop-u246.jpg" crc="4228723741" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="int architectuurtekening woning positie 1-crop-u427.jpg" crc="3858798723" seo="true" ref="colette---interior-design">
-      <caption webpage="colette---interior-design" alt=""/>
-    </file>
-    <file name="meu sem5 stoel 09-crop-u7511.jpg" crc="424878501" seo="true" ref="colette---spatial-design">
-      <caption webpage="colette---spatial-design" alt=""/>
-    </file>
     <file name="meu sem5 stoel 10.jpg" crc="4029502127" seo="true" ref="colette---modulair-chair">
       <caption webpage="colette---modulair-chair" alt=""/>
     </file>
@@ -571,55 +617,67 @@
     <file name="int dwarsdoorsnede_page-0001-crop-u8071.jpg" crc="4165663588" seo="true" ref="colette---playful-interior">
       <caption webpage="colette---playful-interior" alt=""/>
     </file>
-    <file name="kantoorkamer 02-crop-u8308.jpg" crc="60433527" seo="true" ref="colette---interior-design">
-      <caption webpage="colette---interior-design" alt=""/>
-    </file>
-    <file name="01 aquarel ruimte-crop-u8174.jpg" crc="383010187" seo="true" ref="colette---2d---technical">
-      <caption webpage="colette---2d---technical" alt=""/>
-    </file>
-    <file name="detail studiereis 03-crop-u8092.jpg" crc="418446717" seo="true" ref="colette---2d---technical">
-      <caption webpage="colette---2d---technical" alt=""/>
-    </file>
-    <file name="int dansstudio 01-crop-u8568.jpg" crc="410784947" seo="true" ref="colette---spatial-design">
-      <caption webpage="colette---spatial-design" alt=""/>
-    </file>
     <file name="01 aquarel ruimte.jpg" crc="498745698" seo="true" ref="colette---curious-spaces">
       <caption webpage="colette---curious-spaces" alt=""/>
     </file>
     <file name="03 aquarel ruimte 2.jpg" crc="66000662" seo="true" ref="colette---curious-spaces">
       <caption webpage="colette---curious-spaces" alt=""/>
     </file>
+    <file name="deltion zone buiten-crop-u8591.jpg" crc="4128455309" seo="true" ref="colette---explorative-school">
+      <caption webpage="colette---explorative-school" alt=""/>
+    </file>
+    <file name="int deltion 00.jpg" crc="81034116" seo="true" ref="colette---explorative-school">
+      <caption webpage="colette---explorative-school" alt=""/>
+    </file>
+    <file name="deltion zone alone 3.jpg" crc="243195744" seo="true" ref="colette---explorative-school">
+      <caption webpage="colette---explorative-school" alt=""/>
+    </file>
+    <file name="deltion zone water 2.jpg" crc="430929097" seo="true" ref="colette---explorative-school">
+      <caption webpage="colette---explorative-school" alt=""/>
+    </file>
+    <file name="deltion zone alone 2.jpg" crc="4279132189" seo="true" ref="colette---explorative-school">
+      <caption webpage="colette---explorative-school" alt=""/>
+    </file>
+    <file name="skp agripo 3-crop-u8741.jpg" crc="96739395" seo="true" ref="colette---lighting-plans">
+      <caption webpage="colette---lighting-plans" alt=""/>
+    </file>
+    <file name="arc serpentine pavilion 02-crop-u8767.jpg" crc="476327263" seo="true" ref="colette---lighting-plans">
+      <caption webpage="colette---lighting-plans" alt=""/>
+    </file>
+    <file name="meu sem5 stoel 09-crop-u8738.jpg" crc="424878501" seo="true" ref="colette---lighting-plans">
+      <caption webpage="colette---lighting-plans" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="refolding-space.css" crc="62426684" ref="phone>refolding-space"/>
-      <file name="3d-modeling.css" crc="62426684" ref="phone>3d-modeling"/>
-      <file name="shopping-window.css" crc="62426684" ref="phone>shopping-window"/>
-      <file name="colette---contact---about-me.css" crc="533687355" ref="phone>colette---contact---about-me"/>
-      <file name="index.css" crc="4157006844" ref="phone>index"/>
-      <file name="hotel-madagascar.css" crc="62426684" ref="phone>hotel-madagascar"/>
-      <file name="tokio-house.css" crc="62426684" ref="phone>tokio-house"/>
-      <file name="pastabar.css" crc="62426684" ref="phone>pastabar"/>
-      <file name="interior-design.css" crc="62426684" ref="phone>interior-design"/>
       <file name="interior-design-fair.css" crc="62426684" ref="phone>interior-design-fair"/>
-      <file name="own-world.css" crc="62426684" ref="phone>own-world"/>
-      <file name="renders-internship.css" crc="62426684" ref="phone>renders-internship"/>
-      <file name="triangle-stairs.css" crc="62426684" ref="phone>triangle-stairs"/>
-      <file name="2d---technical.css" crc="62426684" ref="phone>2d---technical"/>
-      <file name="detail-drawings.css" crc="62426684" ref="phone>detail-drawings"/>
-      <file name="diverse-renders.css" crc="62426684" ref="phone>diverse-renders"/>
-      <file name="creative-mind.css" crc="62426684" ref="phone>creative-mind"/>
-      <file name="drawings-pavilion.css" crc="62426684" ref="phone>drawings-pavilion"/>
-      <file name="recycled-plastic.css" crc="62426684" ref="phone>recycled-plastic"/>
-      <file name="the-wanderer.css" crc="62426684" ref="phone>the-wanderer"/>
-      <file name="interactive-pavilion.css" crc="62426684" ref="phone>interactive-pavilion"/>
-      <file name="drawings-hotelroom.css" crc="62426684" ref="phone>drawings-hotelroom"/>
       <file name="dancing-with-light.css" crc="62426684" ref="phone>dancing-with-light"/>
+      <file name="hotel-madagascar.css" crc="62426684" ref="phone>hotel-madagascar"/>
+      <file name="triangle-stairs.css" crc="62426684" ref="phone>triangle-stairs"/>
       <file name="lamp-design.css" crc="62426684" ref="phone>lamp-design"/>
+      <file name="tokio-house.css" crc="62426684" ref="phone>tokio-house"/>
+      <file name="index.css" crc="52032888" ref="phone>index"/>
+      <file name="diverse-renders.css" crc="62426684" ref="phone>diverse-renders"/>
+      <file name="drawings-pavilion.css" crc="62426684" ref="phone>drawings-pavilion"/>
+      <file name="own-world.css" crc="62426684" ref="phone>own-world"/>
+      <file name="pastabar.css" crc="62426684" ref="phone>pastabar"/>
+      <file name="colette---contact---about-me.css" crc="517542332" ref="phone>colette---contact---about-me"/>
+      <file name="refolding-space.css" crc="62426684" ref="phone>refolding-space"/>
+      <file name="2d---technical.css" crc="62426684" ref="phone>2d---technical"/>
+      <file name="3d-modeling.css" crc="62426684" ref="phone>3d-modeling"/>
+      <file name="drawings-hotelroom.css" crc="62426684" ref="phone>drawings-hotelroom"/>
+      <file name="interactive-pavilion.css" crc="62426684" ref="phone>interactive-pavilion"/>
+      <file name="renders-internship.css" crc="62426684" ref="phone>renders-internship"/>
+      <file name="the-wanderer.css" crc="62426684" ref="phone>the-wanderer"/>
+      <file name="recycled-plastic.css" crc="62426684" ref="phone>recycled-plastic"/>
       <file name="spatial-design.css" crc="62426684" ref="phone>spatial-design"/>
+      <file name="interior-design.css" crc="62426684" ref="phone>interior-design"/>
+      <file name="detail-drawings.css" crc="62426684" ref="phone>detail-drawings"/>
       <file name="playful-space.css" crc="62426684" ref="phone>playful-space"/>
+      <file name="creative-mind.css" crc="62426684" ref="phone>creative-mind"/>
+      <file name="shopping-window.css" crc="62426684" ref="phone>shopping-window"/>
     </folder>
-    <file name="index.html" crc="4034977431" seo="true" mt="1658668441906" redirect="true"/>
+    <file name="index.html" crc="4111769993" seo="true" mt="1658668441906" redirect="true"/>
     <file name="interior-design.html" crc="380584079" seo="true" mt="1658658847846" redirect="false"/>
     <file name="hotel-madagascar.html" crc="3797261405" seo="true" mt="1658658967128" redirect="false"/>
     <file name="triangle-stairs.html" crc="4226493486" seo="true" mt="1658658981689" redirect="false"/>
@@ -644,28 +702,28 @@
     <file name="shopping-window.html" crc="116057414" seo="true" mt="1658659096357" redirect="false"/>
     <file name="tokio-house.html" crc="3911264246" seo="true" mt="1658659102941" redirect="false"/>
     <file name="own-world.html" crc="512214081" seo="true" mt="1658659107701" redirect="false"/>
-    <file name="colette---contact---about-me.html" crc="404034011" seo="true" mt="1690785073727" redirect="true"/>
+    <file name="colette---contact---about-me.html" crc="270572756" seo="true" mt="1716649901211" redirect="true"/>
   </folder>
   <file name="index.html" crc="4098610082" seo="true" mt="1685366925204" redirect="true"/>
-  <file name="colette---interior-design.html" crc="4195607728" seo="true" mt="1706201804330" redirect="true"/>
+  <file name="colette---interior-design.html" crc="441603660" seo="true" mt="1716648094310" redirect="true"/>
   <file name="colette---2d---technical.html" crc="3919264210" seo="true" mt="1706200743987" redirect="true"/>
   <file name="colette---spatial-design.html" crc="115171627" seo="true" mt="1706202023200" redirect="true"/>
-  <file name="colette---contact---about-me.html" crc="311939291" seo="true" mt="1706199162926" redirect="true"/>
-  <file name="colette---hotel-madagascar.html" crc="4109452546" seo="true" mt="1658667641535" redirect="true"/>
+  <file name="colette---contact---about-me.html" crc="269690107" seo="true" mt="1716649646121" redirect="true"/>
+  <file name="colette---hotel-madagascar.html" crc="242749552" seo="true" mt="1658667641535" redirect="true"/>
   <file name="colette---triangle-stairs.html" crc="4041436364" seo="true" mt="1658665827965" redirect="true"/>
   <file name="colette---diverse-renders.html" crc="91029917" seo="true" mt="1658665861197" redirect="true"/>
   <file name="colette---pastabar.html" crc="22429623" seo="true" mt="1658665932534" redirect="true"/>
   <file name="colette---renders-internship.html" crc="3992286812" seo="true" mt="1658665966519" redirect="true"/>
   <file name="colette---interior-design-fair.html" crc="131348952" seo="true" mt="1658665998939" redirect="true"/>
-  <file name="colette---drawings-hotelroom.html" crc="4120610436" seo="true" mt="1658667824835" redirect="true"/>
+  <file name="colette---drawings-hotelroom.html" crc="100182681" seo="true" mt="1658667824835" redirect="true"/>
   <file name="colette---recycled-plastic.html" crc="498446709" seo="true" mt="1658666188473" redirect="true"/>
   <file name="colette---detail-drawings.html" crc="259265035" seo="true" mt="1658666223555" redirect="true"/>
-  <file name="colette---drawings-pavilion.html" crc="307890751" seo="true" mt="1658667880927" redirect="true"/>
+  <file name="colette---drawings-pavilion.html" crc="3818435531" seo="true" mt="1658667880927" redirect="true"/>
   <file name="colette---the-wanderer.html" crc="3758107804" seo="true" mt="1658666334926" redirect="true"/>
   <file name="colette---creative-mind.html" crc="4239002628" seo="true" mt="1658666370406" redirect="true"/>
-  <file name="colette---refolding-space.html" crc="232218155" seo="true" mt="1658668031524" redirect="true"/>
+  <file name="colette---refolding-space.html" crc="3827094206" seo="true" mt="1658668031524" redirect="true"/>
   <file name="colette---interactive-pavilion.html" crc="3932371451" seo="true" mt="1658666675322" redirect="true"/>
-  <file name="colette---dancing-with-light.html" crc="26646403" seo="true" mt="1658668159256" redirect="true"/>
+  <file name="colette---dancing-with-light.html" crc="62619517" seo="true" mt="1658668159256" redirect="true"/>
   <file name="colette---lamp-design.html" crc="195727325" seo="true" mt="1658666843067" redirect="true"/>
   <file name="colette---3d-modeling.html" crc="3988796573" seo="true" mt="1658666871225" redirect="true"/>
   <file name="colette---playful-space.html" crc="3839785192" seo="true" mt="1685354288896" redirect="true"/>
@@ -679,6 +737,10 @@
   <file name="colette---scheepvaartmuseum.html" crc="33213922" seo="true" mt="1706200804868" redirect="true"/>
   <file name="colette---bread-corner.html" crc="187388070" seo="true" mt="1706201541880" redirect="true"/>
   <file name="colette---rijks-restaurant.html" crc="4111181532" seo="true" mt="1706201685509" redirect="true"/>
-  <file name="colette---explorative-school.html" crc="3767551971" seo="true" mt="1706201775244" redirect="true"/>
+  <file name="colette---explorative-school.html" crc="335147644" seo="true" mt="1716649091876" redirect="true"/>
   <file name="colette---playful-waiting.html" crc="15554802" seo="true" mt="1706201894880" redirect="true"/>
+  <file name="colette---lighting-plans.html" crc="162911389" seo="true" mt="1716647832448" redirect="true"/>
+  <file name="colette---hotelroom.html" crc="4213406715" seo="true" mt="1716647950735" redirect="true"/>
+  <file name="colette---explorative-school-lighting.html" crc="256677493" seo="true" mt="1716647997041" redirect="true"/>
+  <file name="colette---lighting-scheepvaart.html" crc="4070359030" seo="true" mt="1716647980819" redirect="true"/>
 </manifest>
