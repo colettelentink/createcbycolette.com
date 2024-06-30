@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://createdbycolette.com/index.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://createdbycolette.com/phone/index.html"/>
@@ -25,33 +25,39 @@
       <image:loc>http://createdbycolette.com/images/logo%20colette%20lentink_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%20isometrie-crop-u239.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%20isometrie-crop-u239.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%20isometrie-crop-u239_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%20isometrie-crop-u239_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%20zone%20alone%203-crop-u387.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%20zone%20alone%203-crop-u387.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%20zone%20alone%203-crop-u387_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%20zone%20alone%203-crop-u387_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u246.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u246.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u246_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u246_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u9192.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u9192.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u9192_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u9192_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/finals%20artez%20logo%202024-crop-u12244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/finals%20artez%20logo%202024-crop-u12244_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---other-renders.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---pastabar.html</loc>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -70,22 +76,28 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/inter%20scaldes%20wc%2004%20v3bw.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20pastabar%2002.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/inter%20scaldes%20wc%2004%20v3bw_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20pastabar%2002_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/kantoorkamer%2002bw.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20pastabar%2001.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/kantoorkamer%2002bw_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20pastabar%2001_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/8-11-2018%20studio%20-%20migrantenverblijf%20waalwijk-g_scene%201_camera%202bw-crop-u5397.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20pastabar%2005.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/8-11-2018%20studio%20-%20migrantenverblijf%20waalwijk-g_scene%201_camera%202bw-crop-u5397_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20pastabar%2005_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20pastabar%20plattegrond.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20pastabar%20plattegrond_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -233,8 +245,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---lamp-design.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---3d-modeling.html</loc>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -253,27 +265,24 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc09361bw.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/skp%20agripo%203.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc09361bw_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/skp%20agripo%203_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc09355bw.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/skp%20agripo%204.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc09355bw_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/skp%20agripo%204_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc09365bw.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc09365bw_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/papierkast-crop-u10374.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---interior-design.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -289,64 +298,70 @@
       <image:loc>http://createdbycolette.com/images/instagram-logo-png-photo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20music%202-crop-u319.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20music%202-crop-u319.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20music%202-crop-u319_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20music%202-crop-u319_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/230706%20rijks%2005%202-crop-u8289.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/230706%20rijks%2005%202-crop-u8289.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/230706%20rijks%2005%202-crop-u8289_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/230706%20rijks%2005%202-crop-u8289_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u9637.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u9637.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u9637_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u9637_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/20230627%20bread%20corner%2002-crop-u8233.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20artez%20logo%202024-crop-u12231.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/20230627%20bread%20corner%2002-crop-u8233_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20artez%20logo%202024-crop-u12231_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%2003-crop-u527.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/20230627%20bread%20corner%2002-crop-u8233.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%2003-crop-u527_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/20230627%20bread%20corner%2002-crop-u8233_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20patio%20driehoekjes%2002-crop-u534.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%2003-crop-u527.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20patio%20driehoekjes%2002-crop-u534_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%2003-crop-u527_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20sem5%20stoel%2009-crop-u9855.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20patio%20driehoekjes%2002-crop-u534.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20sem5%20stoel%2009-crop-u9855_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20patio%20driehoekjes%2002-crop-u534_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20positie%201-crop-u427.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20sem5%20stoel%2009-crop-u9855.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20positie%201-crop-u427_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20sem5%20stoel%2009-crop-u9855_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc09361bw-crop-u9853.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20positie%201-crop-u427.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc09361bw-crop-u9853_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20positie%201-crop-u427_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/kantoorkamer%2002bw-crop-u8308.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/dsc09361bw-crop-u9853.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/kantoorkamer%2002bw-crop-u8308_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/dsc09361bw-crop-u9853_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/kantoorkamer%2002bw-crop-u8308.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/kantoorkamer%2002bw-crop-u8308_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
@@ -354,7 +369,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---technical.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -373,45 +388,45 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/hotelroom%20madagascar%20technical%20drawing%20-%20colette%20lentink%20bw-crop-u1170.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/hotelroom%20madagascar%20technical%20drawing%20-%20colette%20lentink%20bw-crop-u1170.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/hotelroom%20madagascar%20technical%20drawing%20-%20colette%20lentink%20bw-crop-u1170_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/hotelroom%20madagascar%20technical%20drawing%20-%20colette%20lentink%20bw-crop-u1170_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u4793.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u4793.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u4793_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u4793_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/sl%20scheepvaartmuseum%20kastenwand%2001_page-0001-crop-u8244.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/sl%20scheepvaartmuseum%20kastenwand%2001_page-0001-crop-u8244.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/sl%20scheepvaartmuseum%20kastenwand%2001_page-0001-crop-u8244_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/sl%20scheepvaartmuseum%20kastenwand%2001_page-0001-crop-u8244_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20technisch-crop-u10980.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20technisch-crop-u10980.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20technisch-crop-u10980_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20technisch-crop-u10980_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u10011.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u10011.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u10011_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u10011_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2009-crop-u4763.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2009-crop-u4763.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2009-crop-u4763_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2009-crop-u4763_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---architecture.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -430,33 +445,33 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/ond%2012x12%20ruimte%2001-crop-u748.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/ond%2012x12%20ruimte%2001-crop-u748.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/ond%2012x12%20ruimte%2001-crop-u748_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/ond%2012x12%20ruimte%2001-crop-u748_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2002-crop-u750.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2002-crop-u750.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2002-crop-u750_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2002-crop-u750_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/231219%20isometrie-crop-u9347.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/231219%20isometrie-crop-u9347.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/231219%20isometrie-crop-u9347_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/231219%20isometrie-crop-u9347_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%203-6-21-crop-u749.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%203-6-21-crop-u749.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%203-6-21-crop-u749_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%203-6-21-crop-u749_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---contact---about-me.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://createdbycolette.com/phone/colette---contact---about-me.html"/>
@@ -481,10 +496,16 @@
     <image:image>
       <image:loc>http://createdbycolette.com/images/colette_lentink_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/finals%20artez%20logo%202024-crop-u12251.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/finals%20artez%20logo%202024-crop-u12251_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---hotel-madagascar.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -529,7 +550,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---triangle-stairs.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -560,15 +581,15 @@
       <image:loc>http://createdbycolette.com/images/int%20patio%20driehoekjes%2003_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20patio%20driehoekjes%2004-crop-u5357.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20patio%20driehoekjes%2004-crop-u5357.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20patio%20driehoekjes%2004-crop-u5357_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20patio%20driehoekjes%2004-crop-u5357_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---tokio-house.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---other-renders.html</loc>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -587,39 +608,27 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2003.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/inter%20scaldes%20wc%2004%20v3bw.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2003_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/inter%20scaldes%20wc%2004%20v3bw_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2002.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/kantoorkamer%2002bw.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2002_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/kantoorkamer%2002bw_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2001.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/8-11-2018%20studio%20-%20migrantenverblijf%20waalwijk-g_scene%201_camera%202bw-crop-u5397.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2001_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2004653x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2004653x303_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2004.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2004_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/8-11-2018%20studio%20-%20migrantenverblijf%20waalwijk-g_scene%201_camera%202bw-crop-u5397_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---pastabar.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---own-world.html</loc>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -638,33 +647,27 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20pastabar%2002.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/pro%20you%2003.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20pastabar%2002_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/pro%20you%2003_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20pastabar%2001.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/pro%20you%2004.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20pastabar%2001_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/pro%20you%2004_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20pastabar%2005.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/pro%20you%2001.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20pastabar%2005_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20pastabar%20plattegrond.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20pastabar%20plattegrond_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/pro%20you%2001_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---renders-housing.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -703,7 +706,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---interior-design-fair.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -728,10 +731,10 @@
       <image:loc>http://createdbycolette.com/images/dsc04682_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc04671-crop-u5493.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/dsc04671-crop-u5493.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc04671-crop-u5493_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/dsc04671-crop-u5493_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/dsc04699.jpg</image:loc>
@@ -742,7 +745,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---drawings-hotelroom.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -791,10 +794,10 @@
       <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%20tekening%2002_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/hotel%20madagascar%20detail%20aanduiding-crop-u5871.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/hotel%20madagascar%20detail%20aanduiding-crop-u5871.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/hotel%20madagascar%20detail%20aanduiding-crop-u5871_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/hotel%20madagascar%20detail%20aanduiding-crop-u5871_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/hotel%20-%20connection%20waves%20furniture.jpg</image:loc>
@@ -829,7 +832,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---recycled-plastic.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -862,7 +865,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---detail-drawings.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -901,7 +904,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---drawings-pavilion.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -940,7 +943,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---the-wanderer.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -967,7 +970,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---creative-mind.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -991,7 +994,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---refolding-space.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1042,7 +1045,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---interactive-pavilion.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1073,10 +1076,10 @@
       <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2001_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2007-crop-u6257.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2007-crop-u6257.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2007-crop-u6257_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2007-crop-u6257_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/arc%20serpentine%20pavilion%2003.jpg</image:loc>
@@ -1087,7 +1090,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---dancing-with-light.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1131,8 +1134,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---detail-drawing-office.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---lamp-design.html</loc>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1151,21 +1154,27 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/240611%20kantoor%20langsdoorsnede%20zwartwit%20lr-crop-u10958.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/dsc09361bw.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/240611%20kantoor%20langsdoorsnede%20zwartwit%20lr-crop-u10958_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/dsc09361bw_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20technisch%20lr-crop-u11070.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/dsc09355bw.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20technisch%20lr-crop-u11070_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/dsc09355bw_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/dsc09365bw.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/dsc09365bw_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---3d-modeling.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---rijks-restaurant.html</loc>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1184,24 +1193,33 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/skp%20agripo%203.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/230706%20rijks%2005%202-crop-u10121.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/skp%20agripo%203_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/230706%20rijks%2005%202-crop-u10121_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/skp%20agripo%204.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/06%20rijks%20hoge%20resolutie-crop-u10124.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/skp%20agripo%204_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/06%20rijks%20hoge%20resolutie-crop-u10124_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/papierkast-crop-u10374.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/01%20rijks%20hoge%20kwaliteit-crop-u10127.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/01%20rijks%20hoge%20kwaliteit-crop-u10127_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/05%20rijks%20hoge%20resolutie-crop-u10130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/05%20rijks%20hoge%20resolutie-crop-u10130_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---playful-space.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1234,7 +1252,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---shopping-window.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1272,8 +1290,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---rijks-restaurant.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---tokio-house.html</loc>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1292,33 +1310,39 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/230706%20rijks%2005%202-crop-u10121.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2003.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/230706%20rijks%2005%202-crop-u10121_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2003_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/06%20rijks%20hoge%20resolutie-crop-u10124.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2002.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/06%20rijks%20hoge%20resolutie-crop-u10124_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2002_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/01%20rijks%20hoge%20kwaliteit-crop-u10127.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2001.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/01%20rijks%20hoge%20kwaliteit-crop-u10127_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2001_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/05%20rijks%20hoge%20resolutie-crop-u10130.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2004653x303.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/05%20rijks%20hoge%20resolutie-crop-u10130_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2004653x303_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2004_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---own-world.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---playful-waiting.html</loc>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1337,27 +1361,39 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/pro%20you%2003.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20bank%2002.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/pro%20you%2003_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20bank%2002_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/pro%20you%2004.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20bank%2001.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/pro%20you%2004_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20bank%2001_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/pro%20you%2001.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2002.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/pro%20you%2001_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2002_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2001-crop-u11408.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2001-crop-u11408_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/meu%20bank%2003-crop-u11431.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/meu%20bank%2003-crop-u11431_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---modulair-chair.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1414,7 +1450,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---playful-interior.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1451,15 +1487,15 @@
       <image:loc>http://createdbycolette.com/images/pijl%2001_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20dwarsdoorsnede_page-0001-crop-u8071.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20dwarsdoorsnede_page-0001-crop-u8071.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20dwarsdoorsnede_page-0001-crop-u8071_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20dwarsdoorsnede_page-0001-crop-u8071_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---curious-spaces.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1489,7 +1525,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---drawings-school.html</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1508,57 +1544,57 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2001%20lr-crop-u11549.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2001%20lr-crop-u11549.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2001%20lr-crop-u11549_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2001%20lr-crop-u11549_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2003-crop-u11605.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2003-crop-u11605.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2003-crop-u11605_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2003-crop-u11605_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2003-crop-u11625.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2003-crop-u11625.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2003-crop-u11625_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2003-crop-u11625_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2002%20lr-crop-u11492.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2002%20lr-crop-u11492.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2002%20lr-crop-u11492_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2002%20lr-crop-u11492_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2005-crop-u11654.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2005-crop-u11654.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2005-crop-u11654_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2005-crop-u11654_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u11680.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u11680.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u11680_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2006-crop-u11680_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2007_3-crop-u11709.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2007_3-crop-u11709.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2007_3-crop-u11709_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2007_3-crop-u11709_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2008-crop-u11722.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2008-crop-u11722.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2008-crop-u11722_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2008-crop-u11722_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---lighting-explorative-school.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---detail-drawing-office.html</loc>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1577,63 +1613,21 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u11816.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/240611%20kantoor%20langsdoorsnede%20zwartwit%20lr-crop-u10958.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u11816_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/240611%20kantoor%20langsdoorsnede%20zwartwit%20lr-crop-u10958_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u11826.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20technisch%20lr-crop-u11070.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u11826_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11849.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11849_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11882.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11882_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11855.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11855_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2012%20lr-crop-u11924.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2012%20lr-crop-u11924_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2012%20lr-crop-u11937.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2012%20lr-crop-u11937_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2013%20lr-crop-u11978.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2013%20lr-crop-u11978_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2013%20lr-crop-u11981.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2013%20lr-crop-u11981_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20technisch%20lr-crop-u11070_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---bread,-schiphol.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1671,7 +1665,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---drawings-scheepvaart.html</loc>
+    <loc>http://createdbycolette.com/colette---other.html</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1690,10 +1684,76 @@
     <image:image>
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/pro%20you%2003-crop-u9419.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/pro%20you%2003-crop-u9419_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/meu%20plastic%20wandkleed%2001-crop-u9429.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/meu%20plastic%20wandkleed%2001-crop-u9429_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/tekening%20gijsbert%2002-crop-u9431.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/tekening%20gijsbert%2002-crop-u9431_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/portret%20geschilderdbw2-crop-u9433.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/portret%20geschilderdbw2-crop-u9433_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/01%20aquarel%20ruimte-crop-u9439.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/01%20aquarel%20ruimte-crop-u9439_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/detail%20studiereis%2003-crop-u9563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/detail%20studiereis%2003-crop-u9563_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2001-crop-u9733.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2001-crop-u9733_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/mariska%20meijers%20kerstetalage%2001-crop-u9735.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/mariska%20meijers%20kerstetalage%2001-crop-u9735_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/dsc04682-crop-u9802.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/dsc04682-crop-u9802_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/skp%20agripo%203-crop-u9944.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/skp%20agripo%203-crop-u9944_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/batch_000_22-1-2019%20apartement%20acg%20-%20shortstay%20up%20living%20utrecht_afbeelding%202_standaard%20camera-crop-u11272.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/batch_000_22-1-2019%20apartement%20acg%20-%20shortstay%20up%20living%20utrecht_afbeelding%202_standaard%20camera-crop-u11272_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---explorative-school.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1712,90 +1772,39 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20buiten-crop-u8591.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20buiten-crop-u8591.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20buiten-crop-u8591_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20buiten-crop-u8591_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20alone%203-crop-u8601.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20alone%203-crop-u8601.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20alone%203-crop-u8601_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20alone%203-crop-u8601_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20water%202-crop-u8609.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20water%202-crop-u8609.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20water%202-crop-u8609_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20water%202-crop-u8609_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20alone%202-crop-u8616.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20alone%202-crop-u8616.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20alone%202-crop-u8616_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20alone%202-crop-u8616_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2000-crop-u8651.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2000-crop-u8651.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%2000-crop-u8651_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://createdbycolette.com/colette---playful-waiting.html</loc>
-    <lastmod>2024-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/174857.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/instagram-logo-png-photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/instagram-logo-png-photo_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20bank%2002.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20bank%2002_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20bank%2001.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20bank%2001_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2002.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2002_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2001-crop-u11408.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2001-crop-u11408_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20bank%2003-crop-u11431.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20bank%2003-crop-u11431_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2000-crop-u8651_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---playful-office.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1814,22 +1823,22 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20plattegrond%20bg%20lr-crop-u10068.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20plattegrond%20bg%20lr-crop-u10068.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20plattegrond%20bg%20lr-crop-u10068_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20plattegrond%20bg%20lr-crop-u10068_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20plattegrond%20ev%20lr-crop-u10081.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20plattegrond%20ev%20lr-crop-u10081.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20plattegrond%20ev%20lr-crop-u10081_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20plattegrond%20ev%20lr-crop-u10081_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u10098.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u10098.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u10098_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u10098_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/_dsc1268bw.png</image:loc>
@@ -1862,10 +1871,10 @@
       <image:loc>http://createdbycolette.com/images/_dsc1295bw_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20bank%2003-crop-u10731.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20bank%2003-crop-u10731.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20bank%2003-crop-u10731_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/meu%20bank%2003-crop-u10731_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/zitkuil%20maquette%20bw.png</image:loc>
@@ -1874,21 +1883,21 @@
       <image:loc>http://createdbycolette.com/images/zitkuil%20maquette%20bw_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/240626%20kantoor%20ontwerp%20dwarsdoorsnede%2002%20lr-crop-u10820.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/240626%20kantoor%20ontwerp%20dwarsdoorsnede%2002%20lr-crop-u10820.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/240626%20kantoor%20ontwerp%20dwarsdoorsnede%2002%20lr-crop-u10820_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/240626%20kantoor%20ontwerp%20dwarsdoorsnede%2002%20lr-crop-u10820_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20doorsnede%2002%20lr-crop-u10859.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20doorsnede%2002%20lr-crop-u10859.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20doorsnede%2002%20lr-crop-u10859_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20doorsnede%2002%20lr-crop-u10859_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---playful-design.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---lighting-explorative-school.html</loc>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1907,39 +1916,63 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/01%20aquarel%20ruimte-crop-u9685.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u11816.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/01%20aquarel%20ruimte-crop-u9685_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u11816_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2001-crop-u9828.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u11826.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2001-crop-u9828_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2010-crop-u11826_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u11217.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11849.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u11217_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11849_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20dansstudio%2001-crop-u9960.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11882.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20dansstudio%2001-crop-u9960_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11882_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20positie%201-crop-u9723.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11855.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20positie%201-crop-u9723_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2011%20lr-crop-u11855_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2012%20lr-crop-u11924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2012%20lr-crop-u11924_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2012%20lr-crop-u11937.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2012%20lr-crop-u11937_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2013%20lr-crop-u11978.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2013%20lr-crop-u11978_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2013%20lr-crop-u11981.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%2013%20lr-crop-u11981_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://createdbycolette.com/colette---other.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <loc>http://createdbycolette.com/colette---drawings-scheepvaart.html</loc>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1958,75 +1991,27 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/pro%20you%2003-crop-u9419.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/20230216%20-%20hsm%20winkel%20-%20cafe%CC%81%202d%20boekenkast%2007-crop-u12082.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/pro%20you%2003-crop-u9419_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/20230216%20-%20hsm%20winkel%20-%20cafe%CC%81%202d%20boekenkast%2007-crop-u12082_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20plastic%20wandkleed%2001-crop-u9429.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/20230216%20-%20hsm%20winkel%20-%20cafe%CC%81%202d%20boekenkast%2010-crop-u12105.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/meu%20plastic%20wandkleed%2001-crop-u9429_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/20230216%20-%20hsm%20winkel%20-%20cafe%CC%81%202d%20boekenkast%2010-crop-u12105_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/tekening%20gijsbert%2002-crop-u9431.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/sl%20scheepvaartmuseum%20kastenwand%2001_page-0001-crop-u12026.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/tekening%20gijsbert%2002-crop-u9431_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/portret%20geschilderdbw2-crop-u9433.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/portret%20geschilderdbw2-crop-u9433_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/01%20aquarel%20ruimte-crop-u9439.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/01%20aquarel%20ruimte-crop-u9439_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/detail%20studiereis%2003-crop-u9563.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/detail%20studiereis%2003-crop-u9563_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2001-crop-u9733.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/arc%20tokio%20huis%2001-crop-u9733_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/mariska%20meijers%20kerstetalage%2001-crop-u9735.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/mariska%20meijers%20kerstetalage%2001-crop-u9735_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc04682-crop-u9802.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/dsc04682-crop-u9802_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/skp%20agripo%203-crop-u9944.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/skp%20agripo%203-crop-u9944_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/batch_000_22-1-2019%20apartement%20acg%20-%20shortstay%20up%20living%20utrecht_afbeelding%202_standaard%20camera-crop-u11272.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/batch_000_22-1-2019%20apartement%20acg%20-%20shortstay%20up%20living%20utrecht_afbeelding%202_standaard%20camera-crop-u11272_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/sl%20scheepvaartmuseum%20kastenwand%2002_page-0001-crop-u12049.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---explorative-school-building.html</loc>
-    <lastmod>2024-06-25</lastmod>
+    <lastmod>2024-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2045,13 +2030,148 @@
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20deltion%20isometrie-crop-u11351.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20deltion%20isometrie-crop-u11351.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20buiten-crop-u11340.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20buiten-crop-u11340.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/deltion%20zone%20buiten-crop-u11340_2x.png</image:loc>
+      <image:loc>http://createdbycolette.com/images/deltion%20zone%20buiten-crop-u11340_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://createdbycolette.com/colette---playful-interior_.html</loc>
+    <lastmod>2024-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/174857.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/instagram-logo-png-photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/instagram-logo-png-photo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20v2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20v2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20v1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20v1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/pijl%2001.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/pijl%2001_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20dwarsdoorsnede_page-0001-crop-u12163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20dwarsdoorsnede_page-0001-crop-u12163_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://createdbycolette.com/colette---playful-design.html</loc>
+    <lastmod>2024-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/174857.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/instagram-logo-png-photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/instagram-logo-png-photo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/01%20aquarel%20ruimte-crop-u9685.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/01%20aquarel%20ruimte-crop-u9685_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2001-crop-u9828.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/meu%20verenwand%2001-crop-u9828_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u11217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/finals%20kantoor%20langsdoorsnede%20lr-crop-u11217_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20dansstudio%2001-crop-u9960.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20dansstudio%2001-crop-u9960_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20positie%201-crop-u9723.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20positie%201-crop-u9723_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%203-6-21-crop-u12125.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%203-6-21-crop-u12125_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://createdbycolette.com/colette---playful-space_.html</loc>
+    <lastmod>2024-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/174857.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/instagram-logo-png-photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/instagram-logo-png-photo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%203-6-21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%203-6-21_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%20detail.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/poster%20ontmoetingsplek%20streetdancers%20detail_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
