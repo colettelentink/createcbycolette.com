@@ -145,9 +145,6 @@
       <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://createdbycolette.com/images/logo%20colette%20lentink220x64.png</image:loc>
     </image:image>
     <image:image>
@@ -218,6 +215,9 @@
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/kantoorkamer%2002bw-crop-u8308_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -343,13 +343,13 @@
       <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://createdbycolette.com/images/colette_lentinkbw.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/colette_lentinkbw_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/colette_lentink.jpg</image:loc>
@@ -2056,7 +2056,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---playful-design.html</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://createdbycolette.com/phone/colette---playful-design.html"/>
