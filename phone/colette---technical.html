@@ -20,7 +20,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-stramien.css?crc=3879155287"/>
-  <link rel="stylesheet" type="text/css" href="css/colette---technical.css?crc=156386373" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/colette---technical.css?crc=278581072" id="pagesheet"/>
     <!--/*
 
 */
@@ -38,7 +38,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="clearfix colelem" id="pu14774"><!-- group -->
      <a class="nonblock nontext clip_frame grpelem" id="u14774" href="colette---drawings-scheepvaart.html"><!-- image --><img class="block" id="u14774_img" src="../images/sl%20scheepvaartmuseum%20kastenwand%2001_page-0001-crop-u14774.jpg?crc=3768310250" data-hidpi-src="../images/sl%20scheepvaartmuseum%20kastenwand%2001_page-0001-crop-u14774_2x.jpg?crc=374454069" alt="" data-heightwidthratio="0.9935897435897436" data-image-width="312" data-image-height="310"/></a>
-     <a class="nonblock nontext clearfix grpelem" id="u14773-4" href="colette---drawings-scheepvaart.html"><!-- content --><p>Scheepvaartmuseum</p></a>
+     <div class="browser_width grpelem" id="u14773-4-bw">
+      <a class="nonblock nontext clearfix" id="u14773-4" href="colette---drawings-scheepvaart.html"><!-- content --><p>Scheepvaartmuseum</p></a>
+     </div>
     </div>
     <div class="colelem" id="u14834"><!-- content -->
      <div class="fluid_height_spacer"></div>
@@ -49,7 +51,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="fluid_height_spacer"></div>
     </div>
     <a class="nonblock nontext clearfix colelem" id="u14761-4" href="colette---drawings-hotelroom.html"><!-- content --><p>Drawings hotelroom</p></a>
-    <a class="nonblock nontext clip_frame colelem" id="u14753" href="colette---drawings-hotelroom.html"><!-- image --><img class="block" id="u14753_img" src="../images/hotelroom%20madagascar%20technical%20drawing%20-%20colette%20lentink%20bw-crop-u14753.jpg?crc=441782138" data-hidpi-src="../images/hotelroom%20madagascar%20technical%20drawing%20-%20colette%20lentink%20bw-crop-u14753_2x.jpg?crc=224192480" alt="" data-heightwidthratio="0.9935691318327974" data-image-width="311" data-image-height="309"/></a>
+    <a class="nonblock nontext clip_frame colelem" id="u14753" href="colette---drawings-hotelroom.html"><!-- image --><img class="block" id="u14753_img" src="../images/hotelroom%20madagascar%20technical%20drawing%20-%20colette%20lentink%20bw-crop-u14753.jpg?crc=390794526" data-hidpi-src="../images/hotelroom%20madagascar%20technical%20drawing%20-%20colette%20lentink%20bw-crop-u14753_2x.jpg?crc=4019062734" alt="" data-heightwidthratio="0.9935691318327974" data-image-width="311" data-image-height="309"/></a>
     <div class="colelem" id="u14883"><!-- content -->
      <div class="fluid_height_spacer"></div>
     </div>
@@ -105,6 +107,8 @@ window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

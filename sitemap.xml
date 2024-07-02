@@ -464,7 +464,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---other-renders.html</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://createdbycolette.com/phone/colette---other-renders.html"/>
@@ -1374,6 +1374,12 @@
       <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://createdbycolette.com/images/pijl%2001.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/pijl%2001_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
@@ -1387,12 +1393,6 @@
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20v1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/pijl%2001.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/pijl%2001_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/int%20dwarsdoorsnede_page-0001-crop-u8071.jpg</image:loc>
@@ -1578,7 +1578,7 @@
   </url>
   <url>
     <loc>http://createdbycolette.com/colette---playful-office.html</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://createdbycolette.com/phone/colette---playful-office.html"/>
@@ -2168,6 +2168,12 @@
       <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://createdbycolette.com/images/pijl%2001.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/pijl%2001_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
@@ -2181,12 +2187,6 @@
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20v1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/pijl%2001.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/pijl%2001_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/int%20dwarsdoorsnede_page-0001-crop-u12163.jpg</image:loc>
