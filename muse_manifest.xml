@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="createdbycolette.com" resolutions="1x,2x" timestamp="1721640595541">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="createdbycolette.com" resolutions="1x,2x" timestamp="1721642946403">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_b-stramien.css" crc="365351424" ref="index"/>
@@ -66,7 +66,7 @@
     <file name="require.js" crc="4177726516" ref="phone>index:phone>colette---interior-design:phone>colette---hotel-madagascar:phone>colette---triangle-stairs:phone>colette---other-renders:phone>colette---playful-office:phone>colette---playful-interior:phone>colette---bread,-schiphol:phone>colette---rijks-restaurant:phone>colette---lamp-design:phone>colette---modulair-chair:phone>colette---explorative-school:phone>colette---architecture:phone>colette---explorative-school-building:phone>colette---interactive-pavilion:phone>colette---refolding-space:phone>colette---playful-space:phone>colette---technical:phone>colette---drawings-hotelroom:phone>colette---drawings-pavilion:phone>colette---drawings-school:phone>colette---drawings-scheepvaart:phone>colette---lighting-explorative-school:phone>colette---detail-drawing-office:phone>colette---playful-design:phone>colette---playful-waiting:phone>colette---playful-space_:phone>colette---playful-office_:phone>colette---playful-interior_:phone>colette---dancing-with-light:phone>colette---curious-spaces:phone>colette---contact---about-me:phone>colette---other:phone>colette---creative-mind:phone>colette---renders-housing:phone>colette---interior-design-fair:phone>colette---pastabar:phone>colette---detail-drawings:phone>colette---own-world:phone>colette---shopping-window:phone>colette---the-wanderer:phone>colette---3d-modeling:phone>colette---tokio-house:phone>colette---recycled-plastic:index:colette---interior-design:colette---technical:colette---architecture:colette---contact---about-me:colette---hotel-madagascar:colette---triangle-stairs:colette---other-renders:colette---pastabar:colette---renders-housing:colette---interior-design-fair:colette---drawings-hotelroom:colette---recycled-plastic:colette---detail-drawings:colette---drawings-pavilion:colette---the-wanderer:colette---creative-mind:colette---refolding-space:colette---interactive-pavilion:colette---dancing-with-light:colette---lamp-design:colette---3d-modeling:colette---playful-space:colette---shopping-window:colette---tokio-house:colette---own-world:colette---modulair-chair:colette---playful-interior:colette---curious-spaces:colette---drawings-school:colette---detail-drawing-office:colette---bread,-schiphol:colette---rijks-restaurant:colette---explorative-school:colette---playful-waiting:colette---lighting-explorative-school:colette---drawings-scheepvaart:colette---other:colette---playful-office:colette---playful-design:colette---explorative-school-building:colette---playful-interior_:colette---playful-space_:colette---playful-office_"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4166826114" ref="phone>index"/>
+    <file name="favicon.ico" crc="4225389343" ref="phone>index"/>
     <file name="logo colette lentink321x92.png" crc="3885340940" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -487,34 +487,7 @@
     <file name="8-11-2018 studio - migrantenverblijf waalwijk-g_scene 1_camera 2bw-crop-u15413_2x.jpg" crc="3869948769" seo="true" ref="phone>colette---other-renders">
       <caption webpage="colette---other-renders" alt=""/>
     </file>
-    <file name="240626 kantoor ontwerp dwarsdoorsnede 02 lr-crop-u15896.jpg" crc="291894250" seo="true" ref="phone>colette---playful-office">
-      <caption webpage="colette---playful-office" alt=""/>
-    </file>
-    <file name="240626 kantoor ontwerp dwarsdoorsnede 02 lr-crop-u15896_2x.jpg" crc="254369076" seo="true" ref="phone>colette---playful-office">
-      <caption webpage="colette---playful-office" alt=""/>
-    </file>
-    <file name="finals insta post 01.jpg" crc="3866978856" seo="true" ref="phone>colette---playful-office">
-      <caption webpage="colette---playful-office" alt=""/>
-    </file>
-    <file name="finals insta post 01_2x.jpg" crc="250710639" seo="true" ref="phone>colette---playful-office">
-      <caption webpage="colette---playful-office" alt=""/>
-    </file>
-    <file name="finals kantoor plattegrond bg-crop-u17173.jpg" crc="4021021288" seo="true" ref="phone>colette---playful-office">
-      <caption webpage="colette---playful-office" alt=""/>
-    </file>
-    <file name="finals kantoor plattegrond bg-crop-u17173_2x.jpg" crc="34432645" seo="true" ref="phone>colette---playful-office">
-      <caption webpage="colette---playful-office" alt=""/>
-    </file>
-    <file name="finals kantoor plattegrond ev-crop-u17176.jpg" crc="258340882" seo="true" ref="phone>colette---playful-office">
-      <caption webpage="colette---playful-office" alt=""/>
-    </file>
-    <file name="finals kantoor plattegrond ev-crop-u17176_2x.jpg" crc="20073442" seo="true" ref="phone>colette---playful-office">
-      <caption webpage="colette---playful-office" alt=""/>
-    </file>
-    <file name="schermafbeelding 2024-07-04 135925197x154.jpg" crc="13244785" seo="true" ref="phone>colette---playful-office">
-      <caption webpage="colette---playful-office" alt=""/>
-    </file>
-    <file name="schermafbeelding 2024-07-04 135925197x154_2x.jpg" crc="69908451" seo="true" ref="phone>colette---playful-office">
+    <file name="finals voor website 01.jpg" crc="98922887" seo="true" ref="phone>colette---playful-office">
       <caption webpage="colette---playful-office" alt=""/>
     </file>
     <file name="int architectuurtekening woning v1337x307.jpg" crc="367465525" seo="true" ref="phone>colette---playful-interior">
@@ -1604,16 +1577,16 @@
     <file name="deltion zone buiten-crop-u8591_2x.jpg" crc="4239364816" seo="true" ref="colette---explorative-school">
       <caption webpage="colette---explorative-school" alt=""/>
     </file>
-    <file name="deltion zone alone 3-crop-u8601.jpg" crc="4074330558" seo="true" ref="colette---explorative-school">
+    <file name="deltion zone alone 3-crop-u8601.jpg" crc="3767187916" seo="true" ref="colette---explorative-school">
       <caption webpage="colette---explorative-school" alt=""/>
     </file>
-    <file name="deltion zone alone 3-crop-u8601_2x.jpg" crc="508571773" seo="true" ref="colette---explorative-school">
+    <file name="deltion zone alone 3-crop-u8601_2x.jpg" crc="4289185916" seo="true" ref="colette---explorative-school">
       <caption webpage="colette---explorative-school" alt=""/>
     </file>
     <file name="deltion zone water 2-crop-u8609.jpg" crc="3792480051" seo="true" ref="colette---explorative-school">
       <caption webpage="colette---explorative-school" alt=""/>
     </file>
-    <file name="deltion zone water 2-crop-u8609_2x.jpg" crc="251705248" seo="true" ref="colette---explorative-school">
+    <file name="deltion zone water 2-crop-u8609_2x.jpg" crc="3995130277" seo="true" ref="colette---explorative-school">
       <caption webpage="colette---explorative-school" alt=""/>
     </file>
     <file name="deltion zone alone 2-crop-u8616.jpg" crc="480551484" seo="true" ref="colette---explorative-school">
@@ -1646,7 +1619,7 @@
     <file name="meu verenwand 02_2x.jpg" crc="334883110" seo="true" ref="colette---playful-waiting">
       <caption webpage="colette---playful-waiting" alt=""/>
     </file>
-    <file name="meu verenwand 01-crop-u11408.jpg" crc="4149594450" seo="true" ref="colette---playful-waiting">
+    <file name="meu verenwand 01-crop-u11408.jpg" crc="455979611" seo="true" ref="colette---playful-waiting">
       <caption webpage="colette---playful-waiting" alt=""/>
     </file>
     <file name="meu verenwand 01-crop-u11408_2x.jpg" crc="340507585" seo="true" ref="colette---playful-waiting">
@@ -1999,7 +1972,7 @@
       <file name="colette---shopping-window.css" crc="408578042" ref="phone>colette---shopping-window"/>
       <file name="colette---the-wanderer.css" crc="408578042" ref="phone>colette---the-wanderer"/>
       <file name="colette---drawings-pavilion.css" crc="442414689" ref="phone>colette---drawings-pavilion"/>
-      <file name="colette---playful-office.css" crc="285504602" ref="phone>colette---playful-office"/>
+      <file name="colette---playful-office.css" crc="4173691448" ref="phone>colette---playful-office"/>
       <file name="colette---drawings-school.css" crc="458958598" ref="phone>colette---drawings-school"/>
       <file name="colette---other-renders.css" crc="292466919" ref="phone>colette---other-renders"/>
       <file name="colette---triangle-stairs.css" crc="356342769" ref="phone>colette---triangle-stairs"/>
@@ -2030,93 +2003,93 @@
       <file name="colette---refolding-space.css" crc="4098989759" ref="phone>colette---refolding-space"/>
       <file name="colette---lighting-explorative-school.css" crc="4000637174" ref="phone>colette---lighting-explorative-school"/>
     </folder>
-    <file name="index.html" crc="4268377759" seo="true" mt="1721638167515" redirect="true"/>
-    <file name="colette---interior-design.html" crc="278853958" seo="true" mt="1719993663447" redirect="true"/>
-    <file name="colette---hotel-madagascar.html" crc="4023587532" seo="true" mt="1719948620238" redirect="true"/>
-    <file name="colette---triangle-stairs.html" crc="62279612" seo="true" mt="1719950924164" redirect="true"/>
-    <file name="colette---other-renders.html" crc="402421843" seo="true" mt="1719950968493" redirect="true"/>
-    <file name="colette---playful-office.html" crc="251847740" seo="true" mt="1721640105009" redirect="true"/>
-    <file name="colette---playful-interior.html" crc="3877099805" seo="true" mt="1719951015883" redirect="true"/>
-    <file name="colette---bread,-schiphol.html" crc="111345574" seo="true" mt="1719951078915" redirect="true"/>
-    <file name="colette---rijks-restaurant.html" crc="3847269923" seo="true" mt="1719950087976" redirect="true"/>
-    <file name="colette---lamp-design.html" crc="495610045" seo="true" mt="1720095056403" redirect="true"/>
-    <file name="colette---modulair-chair.html" crc="4077374132" seo="true" mt="1720167274029" redirect="true"/>
-    <file name="colette---explorative-school.html" crc="3810184187" seo="true" mt="1720168684364" redirect="true"/>
-    <file name="colette---architecture.html" crc="3783710802" seo="true" mt="1719945571894" redirect="true"/>
-    <file name="colette---explorative-school-building.html" crc="532249716" seo="true" mt="1719994373539" redirect="true"/>
-    <file name="colette---interactive-pavilion.html" crc="3963775405" seo="true" mt="1719994359001" redirect="true"/>
-    <file name="colette---refolding-space.html" crc="3875510642" seo="true" mt="1719994345558" redirect="true"/>
-    <file name="colette---playful-space.html" crc="475560474" seo="true" mt="1719994447780" redirect="true"/>
-    <file name="colette---technical.html" crc="140299819" seo="true" mt="1719949605587" redirect="true"/>
-    <file name="colette---drawings-hotelroom.html" crc="4294662548" seo="true" mt="1719994456819" redirect="true"/>
-    <file name="colette---drawings-pavilion.html" crc="434713296" seo="true" mt="1719994470513" redirect="true"/>
-    <file name="colette---drawings-school.html" crc="3863913255" seo="true" mt="1719994480304" redirect="true"/>
-    <file name="colette---drawings-scheepvaart.html" crc="3803023042" seo="true" mt="1719994489568" redirect="true"/>
-    <file name="colette---lighting-explorative-school.html" crc="4278546567" seo="true" mt="1719994500093" redirect="true"/>
-    <file name="colette---detail-drawing-office.html" crc="3783005264" seo="true" mt="1719994511275" redirect="true"/>
-    <file name="colette---playful-design.html" crc="4075500160" seo="true" mt="1719994613008" redirect="true"/>
-    <file name="colette---playful-waiting.html" crc="3941399523" seo="true" mt="1719994519825" redirect="true"/>
-    <file name="colette---playful-space_.html" crc="352188785" seo="true" mt="1719994529097" redirect="true"/>
-    <file name="colette---playful-office_.html" crc="396331334" seo="true" mt="1720172866287" redirect="true"/>
-    <file name="colette---playful-interior_.html" crc="14860328" seo="true" mt="1719994557104" redirect="true"/>
-    <file name="colette---dancing-with-light.html" crc="227099732" seo="true" mt="1719994569094" redirect="true"/>
-    <file name="colette---curious-spaces.html" crc="4003136421" seo="true" mt="1719994577608" redirect="true"/>
-    <file name="colette---contact---about-me.html" crc="426304744" seo="true" mt="1721638220119" redirect="true"/>
-    <file name="colette---other.html" crc="112615284" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---creative-mind.html" crc="4190779359" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---renders-housing.html" crc="3999750875" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---interior-design-fair.html" crc="3959989312" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---pastabar.html" crc="4096129291" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---detail-drawings.html" crc="513444531" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---own-world.html" crc="107793119" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---shopping-window.html" crc="3912963088" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---the-wanderer.html" crc="4080541853" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---3d-modeling.html" crc="4277111121" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---tokio-house.html" crc="3894294975" seo="true" mt="1719828181651" redirect="true"/>
-    <file name="colette---recycled-plastic.html" crc="4086469164" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="index.html" crc="25333890" seo="true" mt="1721638167515" redirect="true"/>
+    <file name="colette---interior-design.html" crc="4025321360" seo="true" mt="1719993663447" redirect="true"/>
+    <file name="colette---hotel-madagascar.html" crc="3761776372" seo="true" mt="1719948620238" redirect="true"/>
+    <file name="colette---triangle-stairs.html" crc="4055284085" seo="true" mt="1719950924164" redirect="true"/>
+    <file name="colette---other-renders.html" crc="4114816354" seo="true" mt="1719950968493" redirect="true"/>
+    <file name="colette---playful-office.html" crc="56287975" seo="true" mt="1721642820791" redirect="true"/>
+    <file name="colette---playful-interior.html" crc="4195583296" seo="true" mt="1719951015883" redirect="true"/>
+    <file name="colette---bread,-schiphol.html" crc="475218313" seo="true" mt="1719951078915" redirect="true"/>
+    <file name="colette---rijks-restaurant.html" crc="487668098" seo="true" mt="1719950087976" redirect="true"/>
+    <file name="colette---lamp-design.html" crc="4290530152" seo="true" mt="1720095056403" redirect="true"/>
+    <file name="colette---modulair-chair.html" crc="4065132942" seo="true" mt="1720167274029" redirect="true"/>
+    <file name="colette---explorative-school.html" crc="393009411" seo="true" mt="1720168684364" redirect="true"/>
+    <file name="colette---architecture.html" crc="366770678" seo="true" mt="1719945571894" redirect="true"/>
+    <file name="colette---explorative-school-building.html" crc="4067584424" seo="true" mt="1719994373539" redirect="true"/>
+    <file name="colette---interactive-pavilion.html" crc="3912497934" seo="true" mt="1719994359001" redirect="true"/>
+    <file name="colette---refolding-space.html" crc="4098325822" seo="true" mt="1719994345558" redirect="true"/>
+    <file name="colette---playful-space.html" crc="301886283" seo="true" mt="1719994447780" redirect="true"/>
+    <file name="colette---technical.html" crc="3880693291" seo="true" mt="1719949605587" redirect="true"/>
+    <file name="colette---drawings-hotelroom.html" crc="4003943872" seo="true" mt="1719994456819" redirect="true"/>
+    <file name="colette---drawings-pavilion.html" crc="13943600" seo="true" mt="1719994470513" redirect="true"/>
+    <file name="colette---drawings-school.html" crc="3867073632" seo="true" mt="1719994480304" redirect="true"/>
+    <file name="colette---drawings-scheepvaart.html" crc="3889960033" seo="true" mt="1719994489568" redirect="true"/>
+    <file name="colette---lighting-explorative-school.html" crc="315516251" seo="true" mt="1719994500093" redirect="true"/>
+    <file name="colette---detail-drawing-office.html" crc="3970340752" seo="true" mt="1719994511275" redirect="true"/>
+    <file name="colette---playful-design.html" crc="318878058" seo="true" mt="1719994613008" redirect="true"/>
+    <file name="colette---playful-waiting.html" crc="3940320420" seo="true" mt="1719994519825" redirect="true"/>
+    <file name="colette---playful-space_.html" crc="379338242" seo="true" mt="1719994529097" redirect="true"/>
+    <file name="colette---playful-office_.html" crc="86469898" seo="true" mt="1720172866287" redirect="true"/>
+    <file name="colette---playful-interior_.html" crc="3773898657" seo="true" mt="1719994557104" redirect="true"/>
+    <file name="colette---dancing-with-light.html" crc="483739648" seo="true" mt="1719994569094" redirect="true"/>
+    <file name="colette---curious-spaces.html" crc="93668068" seo="true" mt="1719994577608" redirect="true"/>
+    <file name="colette---contact---about-me.html" crc="3956444426" seo="true" mt="1721638220119" redirect="true"/>
+    <file name="colette---other.html" crc="4272338548" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---creative-mind.html" crc="4271253573" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---renders-housing.html" crc="3822829889" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---interior-design-fair.html" crc="4182048840" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---pastabar.html" crc="178226541" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---detail-drawings.html" crc="321261865" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---own-world.html" crc="4072916307" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---shopping-window.html" crc="3834089354" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---the-wanderer.html" crc="3959981877" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---3d-modeling.html" crc="4204964155" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---tokio-house.html" crc="3964869077" seo="true" mt="1719828181651" redirect="true"/>
+    <file name="colette---recycled-plastic.html" crc="504215500" seo="true" mt="1719828181651" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4238307439" seo="true" mt="1719993707743" redirect="true"/>
-  <file name="colette---interior-design.html" crc="464805203" seo="true" mt="1719993920147" redirect="true"/>
-  <file name="colette---technical.html" crc="210111009" seo="true" mt="1719825240203" redirect="true"/>
-  <file name="colette---architecture.html" crc="150389328" seo="true" mt="1719825239996" redirect="true"/>
-  <file name="colette---contact---about-me.html" crc="3991467153" seo="true" mt="1721638315229" redirect="true"/>
-  <file name="colette---hotel-madagascar.html" crc="379940975" seo="true" mt="1719947579652" redirect="true"/>
-  <file name="colette---triangle-stairs.html" crc="176036623" seo="true" mt="1719825239620" redirect="true"/>
-  <file name="colette---other-renders.html" crc="3833555353" seo="true" mt="1719948533506" redirect="true"/>
-  <file name="colette---pastabar.html" crc="197208117" seo="true" mt="1719825240995" redirect="true"/>
-  <file name="colette---renders-housing.html" crc="311666606" seo="true" mt="1719825240912" redirect="true"/>
-  <file name="colette---interior-design-fair.html" crc="378511103" seo="true" mt="1719825240953" redirect="true"/>
-  <file name="colette---drawings-hotelroom.html" crc="281232298" seo="true" mt="1719825240245" redirect="true"/>
-  <file name="colette---recycled-plastic.html" crc="34908982" seo="true" mt="1719825241287" redirect="true"/>
-  <file name="colette---detail-drawings.html" crc="402985426" seo="true" mt="1719825241036" redirect="true"/>
-  <file name="colette---drawings-pavilion.html" crc="3794818471" seo="true" mt="1719825240287" redirect="true"/>
-  <file name="colette---the-wanderer.html" crc="4026629925" seo="true" mt="1719825241162" redirect="true"/>
-  <file name="colette---creative-mind.html" crc="4289621742" seo="true" mt="1719825240870" redirect="true"/>
-  <file name="colette---refolding-space.html" crc="425618133" seo="true" mt="1719825240120" redirect="true"/>
-  <file name="colette---interactive-pavilion.html" crc="302499506" seo="true" mt="1719825240078" redirect="true"/>
-  <file name="colette---dancing-with-light.html" crc="313960894" seo="true" mt="1719825240704" redirect="true"/>
-  <file name="colette---lamp-design.html" crc="4080446812" seo="true" mt="1719825239870" redirect="true"/>
-  <file name="colette---3d-modeling.html" crc="4170169541" seo="true" mt="1719825241203" redirect="true"/>
-  <file name="colette---playful-space.html" crc="4116752623" seo="true" mt="1719825240161" redirect="true"/>
-  <file name="colette---shopping-window.html" crc="4274828839" seo="true" mt="1719825241120" redirect="true"/>
-  <file name="colette---tokio-house.html" crc="32245653" seo="true" mt="1719825241246" redirect="true"/>
-  <file name="colette---own-world.html" crc="4278651084" seo="true" mt="1719825241079" redirect="true"/>
-  <file name="colette---modulair-chair.html" crc="3758284484" seo="true" mt="1719825239911" redirect="true"/>
-  <file name="colette---playful-interior.html" crc="266500496" seo="true" mt="1719825239745" redirect="true"/>
-  <file name="colette---curious-spaces.html" crc="414087778" seo="true" mt="1719825240746" redirect="true"/>
-  <file name="colette---drawings-school.html" crc="471622470" seo="true" mt="1719825240328" redirect="true"/>
-  <file name="colette---detail-drawing-office.html" crc="19391974" seo="true" mt="1719825240454" redirect="true"/>
-  <file name="colette---bread,-schiphol.html" crc="4015297102" seo="true" mt="1719825239786" redirect="true"/>
-  <file name="colette---rijks-restaurant.html" crc="385926981" seo="true" mt="1719825239828" redirect="true"/>
-  <file name="colette---explorative-school.html" crc="530385508" seo="true" mt="1719825239953" redirect="true"/>
-  <file name="colette---playful-waiting.html" crc="523549929" seo="true" mt="1719825240536" redirect="true"/>
-  <file name="colette---lighting-explorative-school.html" crc="533622105" seo="true" mt="1719825240411" redirect="true"/>
-  <file name="colette---drawings-scheepvaart.html" crc="486509793" seo="true" mt="1719825240371" redirect="true"/>
-  <file name="colette---other.html" crc="204384110" seo="true" mt="1719825240827" redirect="true"/>
-  <file name="colette---playful-office.html" crc="3916711192" seo="true" mt="1720172795328" redirect="true"/>
-  <file name="colette---playful-design.html" crc="3881350955" seo="true" mt="1720172910330" redirect="true"/>
-  <file name="colette---explorative-school-building.html" crc="459421599" seo="true" mt="1719825632495" redirect="true"/>
-  <file name="colette---playful-interior_.html" crc="515951733" seo="true" mt="1719825240662" redirect="true"/>
-  <file name="colette---playful-space_.html" crc="344676783" seo="true" mt="1719825240579" redirect="true"/>
-  <file name="colette---playful-office_.html" crc="4037545766" seo="true" mt="1720172885003" redirect="true"/>
+  <file name="index.html" crc="4215609495" seo="true" mt="1719993707743" redirect="true"/>
+  <file name="colette---interior-design.html" crc="4156415412" seo="true" mt="1719993920147" redirect="true"/>
+  <file name="colette---technical.html" crc="6880999" seo="true" mt="1719825240203" redirect="true"/>
+  <file name="colette---architecture.html" crc="4133815779" seo="true" mt="1719825239996" redirect="true"/>
+  <file name="colette---contact---about-me.html" crc="361653922" seo="true" mt="1721638315229" redirect="true"/>
+  <file name="colette---hotel-madagascar.html" crc="444822881" seo="true" mt="1719947579652" redirect="true"/>
+  <file name="colette---triangle-stairs.html" crc="109704928" seo="true" mt="1719825239620" redirect="true"/>
+  <file name="colette---other-renders.html" crc="4255103554" seo="true" mt="1719948533506" redirect="true"/>
+  <file name="colette---pastabar.html" crc="208134854" seo="true" mt="1719825240995" redirect="true"/>
+  <file name="colette---renders-housing.html" crc="435075431" seo="true" mt="1719825240912" redirect="true"/>
+  <file name="colette---interior-design-fair.html" crc="162483013" seo="true" mt="1719825240953" redirect="true"/>
+  <file name="colette---drawings-hotelroom.html" crc="4035846420" seo="true" mt="1719825240245" redirect="true"/>
+  <file name="colette---recycled-plastic.html" crc="4038563918" seo="true" mt="1719825241287" redirect="true"/>
+  <file name="colette---detail-drawings.html" crc="4147523220" seo="true" mt="1719825241036" redirect="true"/>
+  <file name="colette---drawings-pavilion.html" crc="138506222" seo="true" mt="1719825240287" redirect="true"/>
+  <file name="colette---the-wanderer.html" crc="4049622505" seo="true" mt="1719825241162" redirect="true"/>
+  <file name="colette---creative-mind.html" crc="227777280" seo="true" mt="1719825240870" redirect="true"/>
+  <file name="colette---refolding-space.html" crc="4255605258" seo="true" mt="1719825240120" redirect="true"/>
+  <file name="colette---interactive-pavilion.html" crc="447865291" seo="true" mt="1719825240078" redirect="true"/>
+  <file name="colette---dancing-with-light.html" crc="3807366333" seo="true" mt="1719825240704" redirect="true"/>
+  <file name="colette---lamp-design.html" crc="3952274690" seo="true" mt="1719825239870" redirect="true"/>
+  <file name="colette---3d-modeling.html" crc="368786922" seo="true" mt="1719825241203" redirect="true"/>
+  <file name="colette---playful-space.html" crc="3808100530" seo="true" mt="1719825240161" redirect="true"/>
+  <file name="colette---shopping-window.html" crc="475826228" seo="true" mt="1719825241120" redirect="true"/>
+  <file name="colette---tokio-house.html" crc="492738312" seo="true" mt="1719825241246" redirect="true"/>
+  <file name="colette---own-world.html" crc="4123674830" seo="true" mt="1719825241079" redirect="true"/>
+  <file name="colette---modulair-chair.html" crc="4167942662" seo="true" mt="1719825239911" redirect="true"/>
+  <file name="colette---playful-interior.html" crc="3929158829" seo="true" mt="1719825239745" redirect="true"/>
+  <file name="colette---curious-spaces.html" crc="139567367" seo="true" mt="1719825240746" redirect="true"/>
+  <file name="colette---drawings-school.html" crc="3926777128" seo="true" mt="1719825240328" redirect="true"/>
+  <file name="colette---detail-drawing-office.html" crc="408005192" seo="true" mt="1719825240454" redirect="true"/>
+  <file name="colette---bread,-schiphol.html" crc="510922096" seo="true" mt="1719825239786" redirect="true"/>
+  <file name="colette---rijks-restaurant.html" crc="132394237" seo="true" mt="1719825239828" redirect="true"/>
+  <file name="colette---explorative-school.html" crc="3882521810" seo="true" mt="1719825239953" redirect="true"/>
+  <file name="colette---playful-waiting.html" crc="14008555" seo="true" mt="1719825240536" redirect="true"/>
+  <file name="colette---lighting-explorative-school.html" crc="6326002" seo="true" mt="1719825240411" redirect="true"/>
+  <file name="colette---drawings-scheepvaart.html" crc="3882895066" seo="true" mt="1719825240371" redirect="true"/>
+  <file name="colette---other.html" crc="3777106265" seo="true" mt="1719825240827" redirect="true"/>
+  <file name="colette---playful-office.html" crc="4057824212" seo="true" mt="1720172795328" redirect="true"/>
+  <file name="colette---playful-design.html" crc="284240506" seo="true" mt="1720172910330" redirect="true"/>
+  <file name="colette---explorative-school-building.html" crc="3953956603" seo="true" mt="1719825632495" redirect="true"/>
+  <file name="colette---playful-interior_.html" crc="4094856687" seo="true" mt="1719825240662" redirect="true"/>
+  <file name="colette---playful-space_.html" crc="484427461" seo="true" mt="1719825240579" redirect="true"/>
+  <file name="colette---playful-office_.html" crc="7585011" seo="true" mt="1720172885003" redirect="true"/>
 </manifest>
