@@ -632,10 +632,10 @@
       <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%20tekening%2007_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%20tekening%2005.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%20tekening%2005274x451.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%20tekening%2005_2x.jpg</image:loc>
+      <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%20tekening%2005274x451_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/int%20hotel%20madagascar%20tekening%2006.jpg</image:loc>
@@ -1350,12 +1350,6 @@
       <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://createdbycolette.com/images/pijl%2001.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/pijl%2001_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
     </image:image>
     <image:image>
@@ -1369,6 +1363,12 @@
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/int%20architectuurtekening%20woning%20v1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/pijl%2001139x178.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://createdbycolette.com/images/pijl%2001139x178_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/int%20dwarsdoorsnede_page-0001-crop-u8071.jpg</image:loc>
@@ -2141,12 +2141,6 @@
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/174857_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/pijl%2001.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://createdbycolette.com/images/pijl%2001_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://createdbycolette.com/images/back.svg</image:loc>
